@@ -549,5 +549,20 @@
   "info": "James Watt byl skotský inženýr, mechanik a vynálezce, jehož zásadní zlepšení parního stroje významně přispělo k průmyslové revoluci. Watt zlepšil dřívější návrhy parních strojů zejména zavedením **odděleného kondenzátoru**, což zvýšilo účinnost a snížilo spotřebu paliva. Spolu s partnerem Matthewem Boultonem své stroje vyráběl a šířil v průmyslu. Watt také vyvinul řadu dalších technických vylepšení, jako například **dvoučinný stroj, rotační pohon, tlakový regulátor a tlakový měřič**, a zavedl koncept „koňské síly“. Měrná jednotka výkonu „watt“ je pojmenována právě po něm.",
   "picture": "https://majklges.github.io/quiz-content/images/james_watt.jpg"
 }
-
+{
+    "id": 70,
+    "category": "historie",
+    "subcategory": "osobnosti",
+    "fact": "Alžběta Bavorská (Sisi)",
+    "info": "Alžběta Amálie Evženie Bavorská, známá jako Sisi, se narodila 24. prosince 1837 v Mnichově. Byla manželkou rakouského císaře Františka Josefa I. a stala se rakouskou císařovnou a uherskou královnou. Proslula svou krásou, nezávislou povahou a odporem k dvorským pravidlům.",
+    "picture": "https://majklges.github.io/quiz-content/images/sisi.jpg"
+  },
+  {
+    "id": 71,
+    "category": "historie",
+    "subcategory": "udalosti",
+    "fact": "Atentát na Alžbětu Bavorskou",
+    "info": "Dne 10. září 1898 byla Alžběta Bavorská zavražděna v Ženevě italským anarchistou Luigim Luchenim, který ji bodl do srdce pilníkem. Na následky zranění císařovna zemřela.",
+    "picture": "https://majklges.github.io/quiz-content/images/sisi_assasin.jpg"
+  }
 ]
