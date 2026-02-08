@@ -1,0 +1,1264 @@
+[
+  {
+    "fact_id": 1,
+    "question": "Ve kterém roce se konaly první antické olympijské hry v Olympii (př. n. l.)?",
+    "answer": "776"
+  },
+  {
+    "fact_id": 1,
+    "question": "Které město hostilo první antické olympijské hry?",
+    "answer": "Olympie"
+  },
+  {
+    "fact_id": 1,
+    "question": "Jak se jmenovala jediná disciplína, ve které se soutěžilo v Olympii v roce 776 př.n.l.?",
+    "answer": "Stadiodromos"
+  },
+  {
+    "fact_id": 2,
+    "question": "Ve kterém roce se konaly první novodobé olympijské hry?",
+    "answer": "1896"
+  },
+  {
+    "fact_id": 2,
+    "question": "Jaké město pořádalo první novodobé olympijské hry?",
+    "answer": "Atény"
+  },
+  {
+    "fact_id": 2,
+    "question": "Kdo byl zakladatelem novodobých olympijských her?",
+    "answer": "Pierre de Coubertin"
+  },
+
+  {
+    "fact_id": 3,
+    "question": "Ve kterém roce se konaly první zimní olympijské hry?",
+    "answer": "1924"
+  },
+  {
+    "fact_id": 3,
+    "question": "Kde se konaly první zimní olympijské hry?",
+    "answer": "Chamonix"
+  },
+  {
+    "fact_id": 4,
+    "question": "Ve kterém roce se konalo první mistrovství světa ve fotbale v Uruguayi?",
+    "answer": "1930"
+  },
+  {
+    "fact_id": 4,
+    "question": "Ve které zemi se konalo první MS ve fotbale v roce 1930?",
+    "answer": "Uruguay"
+  },
+  {
+    "fact_id": 4,
+    "question": "Kdo vyhrál první mistrovství světa ve fotbale v roce 1930?",
+    "answer": "Uruguay"
+  },
+
+  {
+    "fact_id": 5,
+    "question": "Ve kterém roce se konalo první mistrovství Evropy ve fotbale?",
+    "answer": "1960"
+  },
+  {
+    "fact_id": 5,
+    "question": "Ve které zemi se konalo první ME (EURO) ve fotbale?",
+    "answer": "Francie"
+  },
+  {
+    "fact_id": 5,
+    "question": "Který stát vyhrál první mistrovství Evropy ve fotbale?",
+    "answer": "Sovětský svaz"
+  },
+  {
+    "fact_id": 5,
+    "question": "Jaké medaile získalo Československo na EURU 1960 ve Francii?",
+    "answer": "Bronz"
+  },
+  {
+    "fact_id": 5,
+    "question": "Jak se jmenoval legendární sovětský fotbalový brankář s přezdívkou Černý panter?",
+    "answer": "Lev Jašin"
+  },
+  {
+    "fact_id": 6,
+    "question": "Který stát vyhrál nejvíce titulů na MS ve fotbale?",
+    "answer": "Brazílie"
+  },
+  {
+    "fact_id": 6,
+    "question": "Kolik titulů vyhrála Brazílie na MS ve fotbale?",
+    "answer": "5"
+  },
+  {
+    "fact_id": 6,
+    "question": "Ve kterém roce získala Brazílie poslední titul mistra světa?",
+    "answer": "2002"
+  },
+
+  {
+    "fact_id": 7,
+    "question": "Jak se jmenuje je nejvyšší soutěž českého ledního hokeje?",
+    "answer": "Tipsport Extraliga"
+  },
+  {
+    "fact_id": 7,
+    "question": "Kolik týmů hraje v české Tipsport Extralize?",
+    "answer": "14"
+  },
+  {
+    "fact_id": 7,
+    "question": "Který hokejista má nejvíce titulů v české Tipsport Extralize?",
+    "answer": "Ondřej Kratěna"
+  },
+  {
+    "fact_id": 7,
+    "question": "Který hokejista je nejproduktivnější v české Tipsport Extralize?",
+    "answer": "Petr Leška"
+  },
+  {
+    "fact_id": 7,
+    "question": "Který hokejista má nejvíce startů v české Tipsport Extralize?",
+    "answer": "Viktor Hubl"
+  },
+  {
+    "fact_id": 7,
+    "question": "Které dva kluby mají nejvíce extraligových titulů?",
+    "answer": "Třinec a Vsetín"
+  },
+  {
+    "fact_id": 8,
+    "question": "Který tým má nejvíce titulů v 1. české fotbalové lize?",
+    "answer": "Sparta Praha"
+  },
+  {
+    "fact_id": 8,
+    "question": "Kdo je historicky nejlepší střelec české ligy?",
+    "answer": "David Lafata"
+  },
+  {
+    "fact_id": 8,
+    "question": "Kdo je historicky nejlepší střelec české a (československé) ligy?",
+    "answer": "Josef Bican"
+  },
+  {
+    "fact_id": 9,
+    "question": "Jaká je nejvyšší soutěž anglického fotbalu?",
+    "answer": "Premier League"
+  },
+  {
+    "fact_id": 9,
+    "question": "Které dva kluby mají nejvíce titulů v Premier League?",
+    "answer": "Manchester United a Liverpool"
+  },
+  {
+    "fact_id": 9,
+    "question": "Ve kterém roce byla založena anglická Premier League?",
+    "answer": "1992"
+  },
+  {
+    "fact_id": 9,
+    "question": "Kdo má v Premier League nejvíce vychytaných nul?",
+    "answer": "Petr Čech"
+  },
+  {
+    "fact_id": 9,
+    "question": "Kolik týmů soutěží v anglické Premier League?",
+    "answer": "20"
+  },
+  {
+    "fact_id": 9,
+    "question": "Kdo je historicky nejlepší střelec Premier League?",
+    "answer": "Alan Shearer"
+  },
+  {
+    "fact_id": 10,
+    "question": "Která země vyhrála nejvíce titulů na ME ve fotbale?",
+    "answer": "Španělsko"
+  },
+  {
+    "fact_id": 10,
+    "question": "Kolik titulů na ME ve fotbale získalo Španělsko?",
+    "answer": "4"
+  },
+  {
+    "fact_id": 10,
+    "question": "Ve kterém roce Španělsko vyhrálo poslední ME ve fotbale?",
+    "answer": "2024"
+  },
+  {
+    "fact_id": 11,
+    "question": "Kdo vyhrál Mistrovství Evropy 1996 v Anglii?",
+    "answer": "Německo"
+  },
+  {
+    "fact_id": 11,
+    "question": "Kde se konalo EURO v roce 1996?",
+    "answer": "Anglie"
+  },
+  {
+    "fact_id": 11,
+    "question": "Kdo dal gól ve čtvrtfinále Česko – Portugalsko 1996?",
+    "answer": "Karel Poborský"
+  },
+  {
+    "fact_id": 11,
+    "question": "Kdo chytal za Česko v semifinále proti Francii 1996?",
+    "answer": "Petr Kouba"
+  },
+  {
+    "fact_id": 11,
+    "question": "V jakém roce získalo Česko stříbrné medaile na EURU?",
+    "answer": "1996"
+  },
+  {
+    "fact_id": 12,
+    "question": "Kdo získal zlaté medaile na EURU 2004 v Portugalsku?",
+    "answer": "Řecko"
+  },
+  {
+    "fact_id": 12,
+    "question": "Kde se konalo EURO v roce 2004?",
+    "answer": "Portugalsko"
+  },
+  {
+    "fact_id": 12,
+    "question": "Kdo získal bronzové medaile na EURU 2004 v Portugalsku?",
+    "answer": "Česko"
+  },
+  {
+    "fact_id": 12,
+    "question": "Který hráč byl vyhlášen nejlepším střelcem EURA 2024?",
+    "answer": "Milan Baroš"
+  },
+  {
+    "fact_id": 12,
+    "question": "Kdo chytal za Česko v semifinále ME 2004 proti Řecku?",
+    "answer": "Petr Čech"
+  },
+  {
+    "fact_id": 13,
+    "question": "Ve kterém roce se konalo MS v Německo, které se zúčastnilo i Česko?",
+    "answer": "2006"
+  },
+  {
+    "fact_id": 13,
+    "question": "Ve kterém zemi se konalo MS v roce 2006, které se zúčastnilo i Česko?",
+    "answer": "Německo"
+  },
+  {
+    "fact_id": 13,
+    "question": "Kdo vyhrál na MS v Německo v roce 2006, které se zúčastnilo i Česko?",
+    "answer": "Itálie"
+  },
+  {
+    "fact_id": 13,
+    "question": "Jaké týmy mělo Česko ve skupině na MS 2006 v Německu?",
+    "answer": "USA, Ghana, Itálie"
+  },
+  {
+    "fact_id": 13,
+    "question": "Proti komu získalo ve skupině na MS 2006 v Německu jediné vítězství?",
+    "answer": "USA"
+  },
+  {
+    "fact_id": 14,
+    "question": "Kdo byla matka Josefa II. Habsbursko-Lotrinského?",
+    "answer": "Marie Terezie"
+  },
+  {
+    "fact_id": 14,
+    "question": "V jakém roce zrušil Josef II. nevolnictví?",
+    "answer": "1781"
+  },
+  {
+    "fact_id": 14,
+    "question": "Který patent Josefa II. zaručoval náboženskou svobodu?",
+    "answer": "Toleranční patent"
+  },
+  {
+    "fact_id": 14,
+    "question": "Který panovník měl přezdívku Selský panovník?",
+    "answer": "Josef II"
+  },
+  {
+    "fact_id": 15,
+    "question": "Kdo byl prvním historicky doloženým českým panovníkem (852-890)?",
+    "answer": "Bořivoj I"
+  },
+  {
+    "fact_id": 15,
+    "question": "Jak se jmenovala manželka Bořivoje I.?",
+    "answer": "sv. Ludmila"
+  },
+  {
+    "fact_id": 15,
+    "question": "Kdo byl podle Kosmase otec Bořivoje I.?",
+    "answer": "Hostivít"
+  },
+  {
+    "fact_id": 15,
+    "question": "Ve kterém století žil Bořivoj I.?",
+    "answer": "9"
+  },
+  {
+    "fact_id": 16,
+    "question": "Kdo byl prvním doloženým českým králem (1032-1092)?",
+    "answer": "Vratislav II"
+  },
+  {
+    "fact_id": 16,
+    "question": "Jak získal Vratislav II. korunu, nedědiční titul(latinsky)?",
+    "answer": "Ad persona"
+  },
+  {
+    "fact_id": 16,
+    "question": "Od kterého císaře dostal Vratislav II. královský titul?",
+    "answer": "Jindřich IV."
+  },
+  {
+    "fact_id": 16,
+    "question": "Ve kterém století vládl Vratislav II.?",
+    "answer": "11"
+  },
+  {
+    "fact_id": 17,
+    "question": "Kdo byl mladší bratr Josefa II. a předposlední císař Římské říše?",
+    "answer": "Leopold II."
+  },
+  {
+    "fact_id": 17,
+    "question": "Který trest zrušil Leopold II. v Toskánsku?",
+    "answer": "Trest smrti"
+  },
+  {
+    "fact_id": 17,
+    "question": "Se kterou říší ukončil válku Leopold II.?",
+    "answer": "Osmanská říše"
+  },
+  {
+    "fact_id": 17,
+    "question": "Ve kterém století vládl Leopold II.?",
+    "answer": "18"
+  },
+  {
+    "fact_id": 18,
+    "question": "Komu se přezdívalo Madame Deficité?",
+    "answer": "Marie Antoinetta"
+  },
+  {
+    "fact_id": 18,
+    "question": "Za koho byla Marie Antoinetta provdána?",
+    "answer": "Ludvík XVI."
+  },
+  {
+    "fact_id": 18,
+    "question": "Jak skončila Marie Antoinetta?",
+    "answer": "Popravena gilotinou"
+  },
+  {
+    "fact_id": 18,
+    "question": "Ve kterém století žila Marie Antoinetta?",
+    "answer": "18"
+  },
+  {
+    "fact_id": 19,
+    "question": "Ve kterém roce proběhl atentát na Johna F. Kennedyho?",
+    "answer": "1963"
+  },
+  {
+    "fact_id": 19,
+    "question": "Kdo byl údajný střelec na Kennedyho?",
+    "answer": "Lee Harvey Oswald"
+  },
+  {
+    "fact_id": 19,
+    "question": "Kdo zastřelil Lee Harvey Oswalda?",
+    "answer": "Jack Ruby"
+  },
+  {
+    "fact_id": 20,
+    "question": "Kdy začala Velká francouzská revoluce?",
+    "answer": "1789"
+  },
+  {
+    "fact_id": 20,
+    "question": "Útokem na jakou pevnost začala Velká francouzská revoluce?",
+    "answer": "Bastila"
+  },
+  {
+    "fact_id": 20,
+    "question": "Kdo ukončil převzetím moci Velkou francouzskou revoluci v roce 1799?",
+    "answer": "Napoleon Bonaparte"
+  },
+  {
+    "fact_id": 20,
+    "question": "Kdo byl vůdcem jakobínů během vlády teroru?",
+    "answer": "Maximilien Robespierre"
+  },
+  {
+    "fact_id": 21,
+    "question": "Kdy se narodil Napoleon Bonaparte?",
+    "answer": "1769"
+  },
+  {
+    "fact_id": 21,
+    "question": "Kdy proběhla bitva u Waterloo?",
+    "answer": "1815"
+  },
+  {
+    "fact_id": 21,
+    "question": "Kde zemřel Napoleon Bonaparte?",
+    "answer": "Svatá Helena"
+  },
+  {
+    "fact_id": 22,
+    "question": "Ve kterém století žil svatý Václav?",
+    "answer": "10"
+  },
+  {
+    "fact_id": 22,
+    "question": "Kdo zavraždil sv.Václava?",
+    "answer": "Boleslav I."
+  },
+  {
+    "fact_id": 22,
+    "question": "Kde jsou uloženy ostatky sv.Václava?",
+    "answer": "Katedrála sv. Víta"
+  },
+
+  {
+    "fact_id": 23,
+    "question": "Kdy proběhla bitva u Slavkova?",
+    "answer": "1805"
+  },
+  {
+    "fact_id": 23,
+    "question": "Jaká bitva je známá jako 'bitva tří císařů'?",
+    "answer": "Bitva u Slavkova"
+  },
+  {
+    "fact_id": 23,
+    "question": "Jak se přezdívá bitvě u Slavkova?",
+    "answer": "Bitva tří císařů"
+  },
+  {
+    "fact_id": 23,
+    "question": "Kdo zvítězil v bitvě u Slavkova?",
+    "answer": "Napoleon Bonaparte"
+  },
+  {
+    "fact_id": 24,
+    "question": "Kdy proběhla bitva u Midwaye?",
+    "answer": "1942"
+  },
+  {
+    "fact_id": 24,
+    "question": "Které dvě námořní síly se střetly u Midwaye?",
+    "answer": "USA a Japonsko"
+  },
+  {
+    "fact_id": 24,
+    "question": "Kde proběhla nejznámější námořní bitva mezi USA a Japoskem během druhé světové války v roce 1942?",
+    "answer": "U Midway"
+  },
+  {
+    "fact_id": 25,
+    "question": "Kdy proběhla bitva u Stirlingského mostu?",
+    "answer": "1297"
+  },
+  {
+    "fact_id": 25,
+    "question": "Kde proběhla nejvýznamější bitva mezi Skotskem a Anglií v roce 1297?",
+    "answer": "U Stirlingského mostu"
+  },
+  {
+    "fact_id": 25,
+    "question": "Kdo vedl skotské vojsko u Stirlingského mostu?",
+    "answer": "William Wallace"
+  },
+  {
+    "fact_id": 25,
+    "question": "Čeho byla součástí bitva u Stirlingského mostu roku 1297?",
+    "answer": "Skotská válka za nezávislost"
+  },
+
+  {
+    "fact_id": 26,
+    "question": "Ve kterém století vládl Přemysl Otakar II.?",
+    "answer": "13"
+  },
+  {
+    "fact_id": 26,
+    "question": "Kterou bitvou se proslavil Přemysl Otakar II.?",
+    "answer": "Bitva u Kressenbrunnu"
+  },
+  {
+    "fact_id": 26,
+    "question": "Ve které bitvě padl Přemysl Otakar II.?",
+    "answer": "Bitva Na Moravském poli"
+  },
+  {
+    "fact_id": 26,
+    "question": "Kdo byl otec Přemysla Otakara II.?",
+    "answer": "Václav I"
+  },
+  {
+    "fact_id": 27,
+    "question": "Kdy proběhla bitva u Gravelines?",
+    "answer": "1588"
+  },
+  {
+    "fact_id": 27,
+    "question": "Které dva národy bojovaly u Gravelines roku 1588?",
+    "answer": "Španělsko a Anglie"
+  },
+  {
+    "fact_id": 27,
+    "question": "Kde proběhla významná námořní bitva ve které Anglie zničila Španělské loďstvo v roce 1588?",
+    "answer": "U Gravelines"
+  },
+  {
+    "fact_id": 27,
+    "question": "Který britský kapitán bojoval u Gravelines roku 1588 a zúčastnil se celé války mezi Španělskem a Anglií?",
+    "answer": "Francis Drake"
+  },
+  {
+    "fact_id": 27,
+    "question": "Který španělský král vládl během bitvy u Gravelines roku 1588 a během celé války mezi Španělskem a Anglií?",
+    "answer": "Filip II."
+  },
+  {
+    "fact_id": 28,
+    "question": "Kdy proběhla bitva u Salamíny(př.n.l.)?",
+    "answer": "480"
+  },
+  {
+    "fact_id": 28,
+    "question": "Součástí jaké války byla bitva u Salamíny?",
+    "answer": "Řecko Perské"
+  },
+  {
+    "fact_id": 28,
+    "question": "Jaká námořní bitva mezi Řeckem a Persií se odehrála v roce 480 př.n.l.?",
+    "answer": "bitva u Salamíny"
+  },
+  {
+    "fact_id": 29,
+    "question": "Kdy proběhla bitva u Thermopyl (př.n.l.)?",
+    "answer": "480"
+  },
+  {
+    "fact_id": 29,
+    "question": "Kdo vedl Sparťany u Thermopyl?",
+    "answer": "Leonidas"
+  },
+  {
+    "fact_id": 29,
+    "question": "Jak se jmenoval perská král, který bojoval bitvě u Thermopyl?",
+    "answer": "Xerxes"
+  },
+  {
+    "fact_id": 30,
+    "question": "Kdy se odehrála bitva u Gettysburgu?",
+    "answer": "1863"
+  },
+  {
+    "fact_id": 30,
+    "question": "Kde se odehrála zasadní bitva Americké občanské války v roce 1863?",
+    "answer": "u Gettysburgu"
+  },
+  {
+    "fact_id": 30,
+    "question": "Kdo byl poražen u Gettysburgu?",
+    "answer": "Robert Lee"
+  },
+  {
+    "fact_id": 31,
+    "question": "Kdy proběhly bitvy u Saratogy?",
+    "answer": "1777"
+  },
+  {
+    "fact_id": 31,
+    "question": "Kdo vedl americké síly u Saratogy?",
+    "answer": "Horatio Gates"
+  },
+  {
+    "fact_id": 31,
+    "question": "Kde se odehrála zasádní bitva během Americké války za nezávislost v roce 1777?",
+    "answer": "u Saratogy"
+  },
+
+  {
+    "fact_id": 32,
+    "question": "Kdy proběhla bitva u Borodina?",
+    "answer": "1812"
+  },
+  {
+    "fact_id": 32,
+    "question": "Kteří vojevůdci se střetli u Borodina v roce 1812?",
+    "answer": "Napoleon a Kutuzov"
+  },
+  {
+    "fact_id": 32,
+    "question": "Kde se odehrála největší bitva Napoleonova Ruského tažení v roce 1812?",
+    "answer": "u Borodina"
+  },
+
+  {
+    "fact_id": 33,
+    "question": "Kdy se konala bitva u Lipska?",
+    "answer": "1813"
+  },
+  {
+    "fact_id": 33,
+    "question": "Kde se odehrála největší bitva napoleónských válek v roce 1813?",
+    "answer": "u Lipska"
+  },
+  {
+    "fact_id": 33,
+    "question": "Jak se jinak nazývá bitva u Lipska v roce 1813?",
+    "answer": "Bitva národů"
+  },
+  {
+    "fact_id": 34,
+    "question": "Kterým národům vzdorovala Sámova říše?",
+    "answer": "Avaři a Frankové"
+  },
+  {
+    "fact_id": 34,
+    "question": "V jakém století existovala Sámova říše?",
+    "answer": "7"
+  },
+  {
+    "fact_id": 35,
+    "question": "Ve kterém století existovala Velká Morava?",
+    "answer": "9"
+  },
+  {
+    "fact_id": 35,
+    "question": "Kdo založil Velkou Moravu?",
+    "answer": "Mojmír I"
+  },
+  {
+    "fact_id": 35,
+    "question": "Kdo byl nejvýznamnějším panovníkem Velké Moravy?",
+    "answer": "Svatopluk I"
+  },
+  {
+    "fact_id": 36,
+    "question": "Odkud pocházeli Cyril a Metoděj?",
+    "answer": "Soluň"
+  },
+  {
+    "fact_id": 36,
+    "question": "Jaké písmo vytvořil Konstantin (Cyril)?",
+    "answer": "Písmo hlaholici"
+  },
+  {
+    "fact_id": 36,
+    "question": "Ve kterém roce přišli Cyril a Metoděj na Velkou Moravu?",
+    "answer": "863"
+  },
+  {
+    "fact_id": 36,
+    "question": "Který kníže pozval Cyrila a Metoděje na Velkou Moravu?",
+    "answer": "Rastislav"
+  },
+
+  {
+    "fact_id": 37,
+    "question": "Kdy proběhla bitva u Wogastisburgu?",
+    "answer": "632"
+  },
+  {
+    "fact_id": 37,
+    "question": "Kde se odehrála bitva mezi Sámovou říší a Franckou v roce 632?",
+    "answer": "u Wogastisburgu"
+  },
+  {
+    "fact_id": 38,
+    "question": "Kdy proběhla bitva u Waterloo(Belgie)?",
+    "answer": "1815"
+  },
+  {
+    "fact_id": 38,
+    "question": "Kde proběhla poslední bitva napoleonských válek v roce 1815?",
+    "answer": "u Waterloo"
+  },
+  {
+    "fact_id": 38,
+    "question": "Kam byl vyhoštěn Napoleon po bitvě u Waterloo?",
+    "answer": "ostrov Svaté Heleny"
+  },
+
+  {
+    "fact_id": 39,
+    "question": "Co získal Přemysl Otakar I. roku 1212?",
+    "answer": "Zlatá bula sicilská"
+  },
+  {
+    "fact_id": 39,
+    "question": "Který český panovník získal Zlatou bulu sicílskou?",
+    "answer": "Přemysl Otakar I."
+  },
+  {
+    "fact_id": 39,
+    "question": "Kdy byla Zlatá bula sicilská vydána?",
+    "answer": "1212"
+  },
+
+  {
+    "fact_id": 40,
+    "question": "Kde byl zavražděn Václav III.?",
+    "answer": "Olomouc"
+  },
+  {
+    "fact_id": 40,
+    "question": "Kdy Václav III. zemřel?",
+    "answer": "1306"
+  },
+  {
+    "fact_id": 40,
+    "question": "Kolika let se dožil Václav III.?",
+    "answer": "16"
+  },
+  {
+    "fact_id": 40,
+    "question": "Kdo byl zabit v Olomouci roku 1306?",
+    "answer": "Václav III"
+  },
+  {
+    "fact_id": 41,
+    "question": "Jaké přízvisko měl Jan Lucemburský?",
+    "answer": "Král Cizinec"
+  },
+  {
+    "fact_id": 41,
+    "question": "Kdy vládl Jan Lucemburský(století)?",
+    "answer": "14"
+  },
+  {
+    "fact_id": 41,
+    "question": "Kdo byl syn Jana Lucemburského?",
+    "answer": "Karel IV"
+  },
+  {
+    "fact_id": 41,
+    "question": "Ve které bitvě zemřel Jan Lucemburský(1346)?",
+    "answer": "bitva u Kresčaku"
+  },
+    {
+    "fact_id": 41,
+    "question": "Ve které roce zemřel Jan Lucemburský?",
+    "answer": "1346"
+  },
+  {
+    "fact_id": 42,
+    "question": "Ve kterém století vládl Karel IV.?",
+    "answer": "14"
+  },
+  {
+    "fact_id": 42,
+    "question": "Který král se stal jako první císařem Svaté říše římské?",
+    "answer": "Karel IV."
+  },
+  {
+    "fact_id": 42,
+    "question": "Která osobnost vyhrála anketu Největší čech v roce 2005?",
+    "answer": "Karel IV."
+  },
+
+  {
+    "fact_id": 43,
+    "question": "Komu se přezdívalo Matka/Babička Evropy?",
+    "answer": "Marie Terezie"
+  },
+  {
+    "fact_id": 43,
+    "question": "Kolik měla Marie Terezie dětí?",
+    "answer": "16"
+  },
+  {
+    "fact_id": 43,
+    "question": "Jaké reformy zavedla Marie Terezie?",
+    "answer": "Povinná školní docházka a číslování domů"
+  },
+  {
+    "fact_id": 43,
+    "question": "Ve kterém století vládla Marie Terezie?",
+    "answer": "18"
+  },
+  {
+    "fact_id": 43,
+    "question": "Jak se jmenovala jediná žena vládnoucí na českém trůnu?",
+    "answer": "Marie Terezie"
+  },
+  {
+    "fact_id": 44,
+    "question": "V jakém století žil Johann Sebastian Bach?",
+    "answer": "18"
+  },
+  {
+    "fact_id": 44,
+    "question": "Kdy zemřel J.S.Bach?",
+    "answer": "1750"
+  },
+  {
+    "fact_id": 44,
+    "question": "Který hudební skladatel zemřel v roce 1750?",
+    "answer": "Johann Sebastian Bach"
+  },
+  {
+    "fact_id": 44,
+    "question": "V jakém slohu komponoval J.S.Bach?",
+    "answer": "Baroko"
+  },
+  {
+    "fact_id": 45,
+    "question": "V jakém slohu komponoval Georg Friedrich Händel?",
+    "answer": "Baroko"
+  },
+  {
+    "fact_id": 45,
+    "question": "Jaké oratorium složil G.F.Handel?",
+    "answer": "Mesiáš"
+  },
+  {
+    "fact_id": 45,
+    "question": "Oslepl G.F.Handel (ano/ne)?",
+    "answer": "ano"
+  },
+  {
+    "fact_id": 46,
+    "question": "Ve které století žil Wolfgang Amadeus Mozart?",
+    "answer": "18"
+  },
+  {
+    "fact_id": 46,
+    "question": "V jakém uměleckém slohu komponoval W.A.Mozart?",
+    "answer": "Klasicismus"
+  },
+  {
+    "fact_id": 46,
+    "question": "Která Mozartova opera měla premiéru v Praze v roce 1787?",
+    "answer": "Don Giovanni"
+  },
+  {
+    "fact_id": 46,
+    "question": "Kdy Mozart zemřel?",
+    "answer": "1791"
+  },
+  {
+    "fact_id": 47,
+    "question": "Kolik procent výšky těla tvoří páteř?",
+    "answer": "35"
+  },
+  {
+    "fact_id": 47,
+    "question": "Kolik má člověk obratlů?",
+    "answer": "33"
+  },
+  {
+    "fact_id": 48,
+    "question": "Kolik kg váží lidská kůže?",
+    "answer": "3,6"
+  },
+  {
+    "fact_id": 49,
+    "question": "Kdy se stal atentát na Františka Ferdinanda d’Este?",
+    "answer": "1914"
+  },
+  {
+    "fact_id": 49,
+    "question": "Kde se odehrál atentát na Františka Ferdinanda d’Este?",
+    "answer": "Sarajevo"
+  },
+  {
+    "fact_id": 49,
+    "question": "Kdo zastřelil Františka Ferdinanda d’Este a jeho choť?",
+    "answer": "Gavrilo Princip"
+  },
+  {
+    "fact_id": 49,
+    "question": "Jaký historický konflikt byl bezprostředně ovlivněn atentátem na Františka Ferdinanda d’Este?",
+    "answer": "první světová válka"
+  },
+  {
+    "fact_id": 50,
+    "question": "Ve kterém roce se stal atentát na Abrahama Lincolna?",
+    "answer": "1865"
+  },
+  {
+    "fact_id": 50,
+    "question": "Kde byl Abraham Lincoln zastřelen?",
+    "answer": "Fordovo divadlo"
+  },
+  {
+    "fact_id": 50,
+    "question": "Kdo spáchal atentát na Abrahama Lincolna?",
+    "answer": "John Wilkes Booth"
+  },
+  {
+    "fact_id": 50,
+    "question": "Jaká hra se hrála ve Fordově divadle, když byl Lincoln zastřelen?",
+    "answer": "Our American Cousin"
+  },
+  {
+    "fact_id": 51,
+    "question": "V jakém roce byl Gaius Julius Caesar zavražděn (př.n.l.)?",
+    "answer": "44"
+  },
+  {
+    "fact_id": 51,
+    "question": "V jakém městě se atentát na Julia Caesara odehrál?",
+    "answer": "Řím"
+  },
+  {
+    "fact_id": 51,
+    "question": "Kolik ran měl Caesar po útoku spiklenců?",
+    "answer": "23"
+  },
+  {
+    "fact_id": 51,
+    "question": "Kdo byli hlavní organizátoři spiknutí proti Caesarovi?",
+    "answer": "Brutus a Longinus"
+  },
+  {
+    "fact_id": 52,
+    "question": "Ve kterém roce byl Martin Luther King Jr. zavražděn?",
+    "answer": "1968"
+  },
+  {
+    "fact_id": 52,
+    "question": "Ve kterém městě byl Martin Luther King Jr. zastřelen?",
+    "answer": "Memphis"
+  },
+  {
+    "fact_id": 52,
+    "question": "Kdo byl obviněn ze střelby na Martina Luthera Kinga Jr.?",
+    "answer": "James Earl Ray"
+  },
+  {
+    "fact_id": 52,
+    "question": "Ve které budově byl King, když byl zastřelen?",
+    "answer": "motel Lorraine"
+  },
+  {
+    "fact_id": 53,
+    "question": "Kdy byl proveden atentát na Reinharda Heydricha?",
+    "answer": "1942"
+  },
+  {
+    "fact_id": 53,
+    "question": "Kdo provedl atentát na Heydricha?",
+    "answer": "Jan Kubiš a Jozef Gabčík"
+  },
+  {
+    "fact_id": 53,
+    "question": "Jak se jmenovala operace, během které došlo k atentátu na Heydricha?",
+    "answer": "Operace Anthropoid"
+  },
+  {
+    "fact_id": 53,
+    "question": "Jak se jmenoval samopel, který se zasekl Gabčíkovi při atentátu na Heydricha?",
+    "answer": "Stan"
+  },
+  {
+    "fact_id": 54,
+    "question": "Ve kterém roce došlo k atentátu na Aloise Rašína?",
+    "answer": "1923"
+  },
+  {
+    "fact_id": 54,
+    "question": "Kdo byl obětí atentátu 5. ledna 1923 v Praze?",
+    "answer": "Alois Rašín"
+  },
+  {
+    "fact_id": 54,
+    "question": "Kdo spáchal atentát na Aloise Rašína?",
+    "answer": "Josef Šoupal"
+  },
+  {
+    "fact_id": 54,
+    "question": "V jakém městě byl atentát na Aloise Rašína spáchán?",
+    "answer": "Praha"
+  },
+  {
+    "fact_id": 55,
+    "question": "Kdy se odehrála Bitva u Lipan?",
+    "answer": "1434"
+  },
+  {
+    "fact_id": 55,
+    "question": "Kdo vedl utrakvisticko‑katolickou alianci v Bitvě u Lipan?",
+    "answer": "Diviš Bořek"
+  },
+  {
+    "fact_id": 55,
+    "question": "Který radikální husitský vůdce zahynul v Bitvě u Lipan?",
+    "answer": "Prokop Holý"
+  },
+  {
+    "fact_id": 56,
+    "question": "Kdy začaly Husitské války?",
+    "answer": "1419"
+  },
+  {
+    "fact_id": 56,
+    "question": "Kdy skončily Husitské války?",
+    "answer": "1434"
+  },
+  {
+    "fact_id": 56,
+    "question": "Kdo byl hlavní náboženský vůdce, jehož smrt vedla k vypuknutí Husitských válek?",
+    "answer": "Jan Hus"
+  },
+  {
+    "fact_id": 57,
+    "question": "Ve kterém roce se odehrála První pražská defenestrace?",
+    "answer": "1419"
+  },
+  {
+    "fact_id": 57,
+    "question": "Kde se První pražská defenestrace uskutečnila?",
+    "answer": "Novoměstská radnice"
+  },
+  {
+    "fact_id": 57,
+    "question": "První pražská defenestrace je považována za počátek jakého konfliktu?",
+    "answer": "husitské války"
+  },
+  {
+    "fact_id": 57,
+    "question": "Kdo vedl dav husitů během První pražské defenestrace v roce 1419?",
+    "answer": "Jan Želivský"
+  },
+  {
+    "fact_id": 58,
+    "question": "Kdy se odehrála druhá pražská defenestrace?",
+    "answer": "1483"
+  },
+  {
+    "fact_id": 58,
+    "question": "Jaký byl výsledek druhé pražské defenestrace pro náboženský smír v Českém království?",
+    "answer": "kutnohorský náboženský mír"
+  },
+  {
+    "fact_id": 59,
+    "question": "Kdy se odehrála třetí Pražská defenestrace?",
+    "answer": "1618"
+  },
+  {
+    "fact_id": 59,
+    "question": "Kde proběhla Pražská defenestrace 1618?",
+    "answer": "Pražský hrad"
+  },
+  {
+    "fact_id": 59,
+    "question": "Jaký dokument měl být porušen podle stavů před Pražskou defenestrací 1618?",
+    "answer": "Rudolfův majestát"
+  },
+  {
+    "fact_id": 59,
+    "question": "Které povstání a kterou válku rozpoutala třetí Pražská defenestrace v roce 1618?",
+    "answer": "stavovské a třicetiletá"
+  },
+  {
+    "fact_id": 60,
+    "question": "Kdy se Jan Žižka pravděpodobně narodil?",
+    "answer": "1360"
+  },
+  {
+    "fact_id": 60,
+    "question": "Kdy zemřel Jan Žižka?",
+    "answer": "1424"
+  },
+  {
+    "fact_id": 60,
+    "question": "Při obléhání kterého hradu přišel Jan Žižka o druhé oko?",
+    "answer": "Rabí"
+  },
+  {
+    "fact_id": 60,
+    "question": "Jaký vojenský taktický prvek je spojen s Janem Žižkou?",
+    "answer": "vozová hradba"
+  },
+  {
+    "fact_id": 60,
+    "question": "Je pravda, že Jan Žižka nikdy neztratil bitvu(ano/ne)?",
+    "answer": "ano"
+  },
+  {
+    "fact_id": 61,
+    "question": "Jaký je čas světového rekordu Usiana Bolta na 100m z roku 2009?",
+    "answer": "9,58"
+  },
+  {
+    "fact_id": 61,
+    "question": "Jaký je čas světového rekordu Usiana Bolta na 200m z roku 2009?",
+    "answer": "19,19"
+  },
+  {
+    "fact_id": 61,
+    "question": "Ve kterém roce zaběhl Usian Bolt světový rekord na 100m (9,58s) a 200m (19,19s) v Berlině?",
+    "answer": "2009"
+  },
+  {
+    "fact_id": 61,
+    "question": "Kolik olympijských zlatých medailí vyhrál Usain Bolt v bězích na 100m a 200m (2008, 2012, 2016)?",
+    "answer": "3"
+  },
+  {
+    "fact_id": 61,
+    "question": "Kdy Bolt ukončil svou soutěžní atletickou kariéru?",
+    "answer": "2017"
+  },
+  {
+    "fact_id": 62,
+    "question": "Kdy se Emil Zátopek narodil?",
+    "answer": "1922"
+  },
+  {
+    "fact_id": 62,
+    "question": "Ve kterém městě se konaly LOH, kde získal Emil Zátopek 3 zlaté medaile (5km,10km,maraton)?",
+    "answer": "Helsinky"
+  },
+  {
+    "fact_id": 62,
+    "question": "Ve kterém roce se konaly LOH, kde získal Emil Zátopek 3 zlaté medaile (5km,10km,maraton)?",
+    "answer": "1952"
+  },
+  {
+    "fact_id": 62,
+    "question": "Kolik zlatých olympijských medailí celkem Emil Zátopek získal během své kariéry?",
+    "answer": "4"
+  },
+  {
+    "fact_id": 62,
+    "question": "Kolik zlatých medailí získal Emil Zátopek na LOH v Helsinkách 1952?",
+    "answer": "3"
+  },
+  {
+    "fact_id": 63,
+    "question": "Kdy se Věra Čáslavská narodila?",
+    "answer": "1942"
+  },
+  {
+    "fact_id": 63,
+    "question": "Kolik olympijských zlatých medailí Věra Čáslavská získala během své sportovní kariéry?",
+    "answer": "7"
+  },
+  {
+    "fact_id": 63,
+    "question": "Na kterých dvou olympijských hrách dominovala Věra Čáslavská ve víceboji?",
+    "answer": "Tokio 1964 a Mexico City 1968"
+  },
+  {
+    "fact_id": 64,
+    "question": "Jak se jmenuje základní prvek, při kterém gymnasté rotují celým tělem v prostoru po osách?",
+    "answer": "Salto"
+  },
+  {
+    "fact_id": 64,
+    "question": "Kolik disciplín je zahrnuto v ženském víceboji olympijské gymnastiky?",
+    "answer": "4"
+  },
+  {
+    "fact_id": 65,
+    "question": "V jakém století žil Otto Wichterle?",
+    "answer": "20"
+  },
+  {
+    "fact_id": 65,
+    "question": "Za vynález čeho je Otto Wichterle nejvíce známý?",
+    "answer": "Kontaktní čočky"
+  },
+  {
+    "fact_id": 65,
+    "question": "Kdo vynalezl kontaktní čočky?",
+    "answer": "Otto Wichterle"
+  },
+  {
+    "fact_id": 66,
+    "question": "V jakém století žil Josef Ressel?",
+    "answer": "19"
+  },
+  {
+    "fact_id": 66,
+    "question": "Za vynález čeho je Josef Ressel nejznámější?",
+    "answer": "lodní šroub"
+  },
+  {
+    "fact_id": 66,
+    "question": "Kde se Josef Ressel narodil?",
+    "answer": "Chrudim"
+  },
+  {
+    "fact_id": 66,
+    "question": "Kdy získal Ressel patent na lodní šroub?",
+    "answer": "1827"
+  },
+  {
+    "fact_id": 67,
+    "question": "Ve kterém století žil Prokop Diviš?",
+    "answer": "18"
+  },
+  {
+    "fact_id": 67,
+    "question": "Za jaký vynaléz je Prokop Diviš nejznámější?",
+    "answer": "bleskosvod"
+  },
+  {
+    "fact_id": 67,
+    "question": "Jaké bylo rodné jméno Prokopa Diviše?",
+    "answer": "Václav Divíšek"
+  },
+  {
+    "fact_id": 67,
+    "question": "Který hudební nástroj také sestrojil Prokop Diviš?",
+    "answer": "Zlatý Diviš"
+  },
+  {
+    "fact_id": 68,
+    "question": "Ve kterém století žil Johannes Gutenberg?",
+    "answer": "15"
+  },
+  {
+    "fact_id": 68,
+    "question": "Za vynález čeho je Johannes Gutenberg nejznámější?",
+    "answer": "Knihtisk"
+  },
+  {
+    "fact_id": 68,
+    "question": "Kdo vynalezl roku 1440 knihtisk?",
+    "answer": "Johannes Gutenberg"
+  },
+  {
+    "fact_id": 68,
+    "question": "Jak se jmenuje první kniha vytvořená pomocí knihtisku?",
+    "answer": "Gutenbergova bible"
+  },
+  {
+    "fact_id": 68,
+    "question": "V jakém roce byl vynalezen knihtisk?",
+    "answer": "1440"
+  },
+  {
+    "fact_id": 69,
+    "question": "Ve kterém století žil James Watt?",
+    "answer": "18"
+  },
+  {
+    "fact_id": 69,
+    "question": "Který vynález zdokonalil James Watt a zahájil tím průmyslovou revoluci?",
+    "answer": "Parní stroj"
+  },
+  {
+    "fact_id": 69,
+    "question": "Kdo zdokonalil parní stroj a zahájil tím průmyslovou revoluci?",
+    "answer": "James Watt"
+  }
+
+]
