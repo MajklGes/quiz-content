@@ -1260,5 +1260,35 @@
     "question": "Kdo zdokonalil parní stroj a zahájil tím průmyslovou revoluci?",
     "answer": "James Watt"
   }
+  {
+    "fact_id": 70,
+    "question": "Jaká byla přezdívka jméno Alžběty Bavorské?",
+    "answer": "Sisi"
+  },
+  {
+    "fact_id": 70,
+    "question": "Za kterého panovníka se Alžběta Bavorská provdala?",
+    "answer": "František Josef I."
+  },
+  {
+    "fact_id": 70,
+    "question": "Jaké bylo pravé jmeéno císařovny Sisi?",
+    "answer": "Alžběta Bavorská"
+  },
+  {
+    "fact_id": 71,
+    "question": "Ve kterém roce byla Alžběta Bavorská zavražděna?",
+    "answer": "1898"
+  },
+  {
+    "fact_id": 71,
+    "question": "Ve kterém městě došlo k atentátu na Alžbětu Bavorskou?",
+    "answer": "Ženeva"
+  },
+  {
+    "fact_id": 71,
+    "question": "Jak se jmenoval atentátník, který zavraždil Alžbětu Bavorskou?",
+    "answer": "Luigi Lucheni"
+  }
 
 ]
