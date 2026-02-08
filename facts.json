@@ -1,0 +1,553 @@
+[
+  {
+    "id": 1,
+    "category": "sport",
+    "subcategory": "udalosti",
+    "fact": "Antické olympijské hry 776 př.n.l. v Olympii ",
+    "info": "První hry historie. Na začátku her, které trvaly jenom jeden den, se v Olympii zavedl běh na jedno stadium (stadiodromos - 192m). Prvním vítězem byl kuchař Koroibos z Élidy. Místo medaile se udělovaly olivové koruny.",
+    "picture": "https://majklges.github.io/quiz-content/images/olympie.jpg"
+  },
+  {
+    "id": 2,
+    "category": "sport",
+    "subcategory": "udalosti",
+    "fact": "Letní olympijské hry v roce 1896 v Aténách",
+    "info": "První novodobé olympijské hry. Zakladatelem byl Baron Pierre de Coubertin. Soutěžilo se v 9 sportech (atletika, cyklistika, gymnastika, plavání, střelba, šerm, tenis, zápas).",
+    "picture": "https://majklges.github.io/quiz-content/images/athens_olympic.jpg"
+  },
+  {
+    "id": 3,
+    "category": "sport",
+    "subcategory": "udalosti",
+    "fact": "Zimní olympijské hry v roce 1924 v Chamonix",
+    "info": "První novodobé zimní olympijské hry. Nositeli této myšlenky se staly především Švýcarsko a Kanada. Soutěžilo se v 9 sportech.",
+    "picture": "https://majklges.github.io/quiz-content/images/chamonix.jpg"
+  },
+  {
+    "id": 4,
+    "category": "sport",
+    "subcategory": "udalosti",
+    "fact": "Mistrovství světa ve fotbale v roce 1930 v Uruguayi",
+    "info": "První MS ve fotbale (World Cup). Zúčastnilo se jej 13 celků. Vítězem se stala Uruguay. Uruguay(4) : Argentina (2).",
+    "picture": "https://majklges.github.io/quiz-content/images/uruguay_wc.jpg"
+  },
+  {
+    "id": 5,
+    "category": "sport",
+    "subcategory": "udalosti",
+    "fact": "Mistrovství Evropy ve fotbale v roce 1960 ve Francii",
+    "info": "První ME ve fotbale (EURO). Zúčastnilo se jej 17 celků. Vítězem se stal Sovětský svaz. Českoslovesko získalo Bronzové medaile. Československo (2) : Francie (0). Za SSSR chytal Lev Jašin (Černý panter)",
+    "picture": "https://majklges.github.io/quiz-content/images/lev_jasin.jpg"
+  },
+  {
+    "id": 6,
+    "category": "sport",
+    "subcategory": "rekordy",
+    "fact": "Nejvíce vítězství na MS ve fotbale má Brazílie",
+    "info": "Vyhrála celkem 5 titulů (1958, 1962, 1970, 1994, 2002).",
+    "picture": "https://majklges.github.io/quiz-content/images/wc_pohar.jpg"
+  },
+  {
+    "id": 7,
+    "category": "sport",
+    "subcategory": "ligy",
+    "fact": "Tipsport Extraliga - nejvyšší soutěž v českém ledním hokeji",
+    "info": "Extraliga byla založena v sezóně 1993/94 a hraje ji 14 týmů. Nejvíce titulů mají Třinec a Vsetín (6). Nejvyšší počet bodů v základní části drží HC Dynamo Pardubice (2023/24). Nejvyšší návštěvnost zápasu je 32 009 diváků (Litvínov vs Sparta Praha, 2020). Hráčem s nejvíce extraligovými tituly je Ondřej Kratěna(8 titulů). Nejproduktivnější hráč historie ELH je Petr Leška (909 bodů). Nejvíce startů má Viktor Hübl (1276 zápasů).",
+    "picture": "https://majklges.github.io/quiz-content/images/extraliga_logo.jpg"
+  },
+  {
+    "id": 8,
+    "category": "sport",
+    "subcategory": "ligy",
+    "fact": "1. česká fotbalová liga - nejvyšší soutěž českého fotbalu",
+    "info": "Založená roce 1993 po rozdělení československé ligy. Oficiální názvy ligy se měnily podle sponzorů: Gambrinus liga (1997/2013), Synot liga (2014/2016), ePojisteni.cz liga (2016/17), HET liga (2017/18), Fortuna liga (2018/2024), Chance liga (od 2024/25). Nejvíce titulů: AC Sparta Praha 38. Nejvíce vychytaných nul: Martin Vaniak(136).Nejlepší střelec celkově: Josef Bican - (446 gólů). Nejlepší střelec české ligy: David Lafata (198 gólů). Nejvíce odehraných zápasů: Milan Petržela.",
+    "picture": "https://majklges.github.io/quiz-content/images/1liga_logo.jpg"
+  },
+  {
+    "id": 9,
+    "category": "sport",
+    "subcategory": "ligy",
+    "fact": "Premier League - nejvyšší soutěž anglického fotbalu",
+    "info": "Založena roce 1992 odklonem od Football League. Počet týmů: 20. Nejvíce titulů: Manchester United a Liverpool (20), třetí Arsenal (13). Nejvíce odehraných zápasů: Gareth Barry (653). Nejlepší střelec celkově: Alan Shearer (260 gólů). Brankář s nejvíce čistými konty: Petr Čech (202).Na konci sezóny 2015/2016 skončila dlouholetá smlouva s Barclays a vedení FA se rozhodlo vstoupit do dalších ročníků bez hlavního sponzora.",
+    "picture": "https://majklges.github.io/quiz-content/images/premier_league_logo.jpg"
+  },
+  {
+    "id": 10,
+    "category": "sport",
+    "subcategory": "rekordy",
+    "fact": "Nejvíce vítězství na ME ve fotbale má Španělsko",
+    "info": "Vyhrálo celkem 4 tituly (1964, 2008, 2012, 2024).",
+    "picture": "https://majklges.github.io/quiz-content/images/me_pohar.jpg"
+  },
+  {
+    "id": 11,
+    "category": "sport",
+    "subcategory": "udalosti",
+    "fact": "Mistrovství Evropy ve fotbale 1996 v Anglii",
+    "info": "Mistrem Evropy se stal výběr Německa. Česko (1) : Německo (2) po prodloužení. Gól dal Patrik Berger. Čtvrtfinále Česko (1) : Portugalsko (0). Legendární dloubák Karla Poborského. Semifinále Česko (6) : Francie (5) na penalty. V bráně chytal Petr Kouba. ",
+    "picture": "https://majklges.github.io/quiz-content/images/me_anglie_cesko.jpg"
+  },
+  {
+    "id": 12,
+    "category": "sport",
+    "subcategory": "udalosti",
+    "fact": "Mistrovství Evropy ve fotbale 2004 v Portugalsku",
+    "info": "Česko získalo bronzové medaile. Legendární zápas proti Nizozemsku ve skupině. Česko (3) : Nizozemsko (2). Góly Koller, Baroš, Šmicer. Čtvrtfinále Česko (3) : Dánsko (0). Góly Koller, Baroš(2). Semifinále Česko(0) : Řecko (1) po prodloužení. V bráně chytal Petr Čech. Nejlepším střelcem se stal Milan Baroš.",
+    "picture": "ahttps://majklges.github.io/quiz-content/images/me_portugalsko_cesko.jpg"
+  },
+  {
+    "id": 13,
+    "category": "sport",
+    "subcategory": "udalosti",
+    "fact": "Mistrovství světa ve fotbale 2006 v Německu",
+    "info": "Jediná učást Česka na MS. Vítězem se stala Itálie. Itálie (1) : Francie (1) na penalty. Legendární hlavička Zinedine Zidana na Materazziho. Česko konec ve skupině E (USA, Ghana, Itálie). Jediné vítezství proti USA (3:0). Góly Koller a Rosický (2).",
+    "picture": "https://majklges.github.io/quiz-content/images/wc_nemecko_cesko.jpg"
+  },
+  {
+    "id": 14,
+    "category": "historie",
+    "subcategory": "osobnosti",
+    "fact": "Josef II. (1741-1790) Habsbursko - Lotrinský",
+    "info": " Císař Svaté říše římské, král český, uherský a chorvatský, arcivévoda rakouský, známý jako „selský panovník“. Byl jedním z nejvýznamnějších představitelů osvícenského absolutismu z rodu Habsburků. Syn Marie Terezie. Zrušil nevolnictví (Patent o zrušní nevolnictví)(1781) a vydal toleranční patent (1781), čímž prosadil náboženskou svobodu. Omezil moc církve, rušil kláštery bez veřejného přínosu a zavedl reformy školství, justice a zdravotnictví. V českých zemích byl velmi oblíbený, protože zlepšil postavení poddaných. Jeho autoritářský styl však vyvolal odpor šlechty a části církve a po jeho smrti byly některé reformy zrušeny.",
+    "picture": "https://majklges.github.io/quiz-content/images/josef_ii.jpg"
+  },
+  {
+    "id": 15,
+    "category": "historie",
+    "subcategory": "osobnosti",
+    "fact": "Bořivoj I. (852-890) Přemyslovec",
+    "info": "První historicky doložený český panovník. Pocházel z rodu Přemyslovců a podle kronikáře Kosmy byl synem bájného knížete Hostivíta. Jeho manželkou byla sv.Ludmila, vnuky pak svatý Václav a Boleslav I.Za jeho vlády byly v Čechách postaveny první kostely, a sice kostel svatého Klimenta na Levém Hradci a kostel Panny Marie na Pražském hradě",
+    "picture": "https://majklges.github.io/quiz-content/images/borivoj.jpg"
+  },
+  {
+    "id": 16,
+    "category": "historie",
+    "subcategory": "osobnosti",
+    "fact": "Vratislav II (1032-1092) Přemyslovec",
+    "info": "První český král. Královské jméno Vratislav I. Získal korunu za věrné služby od císaře Jindřicha IV. Tehdy ještě nedědičně (Ad Persona), stejně jako druhý český král Vladislav II. Zemřel roku 1092, kdy na lovu spadl z koně a následkům zranění zanedlouho podlehl.",
+    "picture": "https://majklges.github.io/quiz-content/images/vratislav_II.jpg"
+  },
+  {
+    "id": 17,
+    "category": "historie",
+    "subcategory": "osobnosti",
+    "fact": "Leopold II. (1747-1792) Habsbursko - Lotrinský",
+    "info": "Přeposlední císař Říše Římské a český král. Mladší bratr Josefa II., byl umírněný osvícenský panovník. Syn Marie Terezie. Zrušil trest smrti v Toskánsku. Po nástupu na císařský trůn roku 1790 se snažil uklidnit nepokoje v monarchii, ukončil válku s Osmanskou říší a stabilizoval poměry v Uhrách i Rakouském Nizozemí. Roku 1791 byl v Praze korunován českým králem. Reagoval také na Francouzskou revoluci vydáním Pillnické deklarace. Zemřel nečekaně již roku 1792.",
+    "picture": "https://majklges.github.io/quiz-content/images/leopold_ii.jpg"
+  },
+  {
+    "id": 18,
+    "category": "historie",
+    "subcategory": "osobnosti",
+    "fact": "Marie Antoinetta (1755-1793) Habsbursko - Lotrinská",
+    "info": "Rakouská arcivévodkyně a královna Francie, popravená během Francouzské revoluce. Dcera Marie Terezie, byla ve čtrnácti letech provdána za francouzského následníka trůnu Ludvíka XVI. Jako královna vedla okázalý a nákladný dvorský život, za což si vysloužila přezdívku Madame Déficit. Veřejnost ji vnímala jako symbol odtrženosti monarchie od lidu. Po vypuknutí Francouzské revoluce byla s manželem sesazena, uvězněna v Templu a po jeho popravě byla roku 1793 sama sťata gilotinou v Paříži. Stala se jednou z nejikoničtějších postav revoluce.",
+    "picture": "https://majklges.github.io/quiz-content/images/marie_antoinetta.jpg"
+  },
+  {
+    "id": 19,
+    "category": "historie",
+    "subcategory": "udalosti",
+    "fact": "Atentát na Johna Fitzgeralda Kennedyho – Dallas 22. listopadu 1963",
+    "info": "Prezident USA John F. Kennedy byl zastřelen 22. listopadu 1963 v Dallasu (Texas) během jízdy v prezidentské kolóně v Dealey Plaza. Údajný střelec Lee Harvey Oswald vystřelil z oken Texas School Book Depository. Kennedy byl následně převezen do nemocnice Parkland, kde byl prohlášen za mrtvého. Oswald byl o dva dny později zastřelen Jackem Rubyem během převozu mezi budovami policie. Atentát vedl k nástupu viceprezidenta Lyndona B. Johnsona jako prezidenta.," ,
+    "picture": "https://majklges.github.io/quiz-content/images/kennedy_assassination.jpg"
+  },
+  {
+    "id": 20,
+    "category": "historie",
+    "subcategory": "udalosti",
+    "fact": "Velká francouzská revoluce (1789-1799)",
+    "info": "Změnila Francii z absolutní monarchie na republiku a položila základy moderní demokracie.Francouzská revoluce začala roku 1789 svoláním generálních stavů a dobytím Bastily. Deklaracie práv člověka a občana. Postupně vedla k pádu monarchie, popravě Ludvíka XVI. i Marie Antoinetty a nastolení republiky. Období jakobínské diktatury přineslo vládu teroru a tisíce poprav. Maximilien Robespierre - vůdce jakobínů, hlavní tvář vlády teroru. Jean-Paul Marat - novinář a extrémní radikál, zavražděn Charlotte Cordayovou ve vaně. Skončila roku 1799 převzetím moci Napoleonem Bonapartem.",
+    "picture": "https://majklges.github.io/quiz-content/images/french_revolution.jpg"
+  },
+  {
+    "id": 21,
+    "category": "historie",
+    "subcategory": "osobnosti",
+    "fact": "Napoleon Bonaparte (1769-1821)",
+    "info": "Narodil se na Korsice a během Velké francouzské revoluce se vypracoval z dělostřelce na generála. Roku 1799 provedl státní převrat, stal se prvním konzulem a v roce 1804 se korunoval císařem. Bitva U Slavkova (1805) vítězství, bitva u Borodina (1812) nerozhodně, bitva u Waterloo (1815) porážka.Po porážce v bitvě národů u Lipska (1813) abdikoval, byl vyhnán na Elbu, ale ještě se vrátil během tzv. Sta dnů. Jeho definitivní porážka přišla roku 1815 v bitvě u Waterloo. Zemřel v exilu na ostrově Svatá Helena.",
+    "picture": "https://majklges.github.io/quiz-content/images/napoleon.jpg"
+  },
+  {
+    "id": 22,
+    "category": "historie",
+    "subcategory": "osobnosti",
+    "fact": "Svatý Václav (907-935) Přemyslovec",
+    "info": "Český kníže a světec, Patron české země. 28. září 935 došlo ve Staré Boleslavi k Václavově úkladné vraždě, zosnované bratrem Boleslavem (Boleslav I. Ukrutný). Část ostatků je uložena na Pražském hradě v katedrále sv. Víta. Podle nařízení Karla IV. měla na ní spočívat v době mimo korunovační ceremonii tzv. Svatováclavská koruna českých králů",
+    "picture": "https://majklges.github.io/quiz-content/images/svaty_vaclav.jpg"
+  },
+  {
+    "id": 23,
+    "category": "historie",
+    "subcategory": "bitvy",
+    "fact": "Bitva u Slavkova z roku 1805",
+    "info": "Patří k největším vítězstvím Napoleona Bonaparta a k mistrovským dílům vojenské taktiky.Bitva u Slavkova, známá jako bitva tří císařů, proběhla 2. prosince 1805 na Moravě jihovýchodně od Brna. Francouzská armáda císaře Napoleona Bonaparta zde porazila spojené síly Rakouska a Ruska vedené císařem Františkem I., carem Alexandrem I. a generálem Kutuzovem. Napoleon využil klamné oslabení pravého křídla, aby vylákal spojence z výhodných pozic na Prateckých výšinách, a následně provedl rozhodující úder do jejich středu. Vítězství vedlo k rozpadu III. koalice a výrazně změnilo uspořádání Evropy.",
+    "picture": "https://majklges.github.io/quiz-content/images/slavkov.jpg"  
+  },
+  {
+    "id": 24,
+    "category": "historie",
+    "subcategory": "bitvy",
+    "fact": "Bitva u Midwaye z roku 1942",
+    "info": "Byla významná námořní bitva Tichomořského bojiště druhé světové války, probíhající od 3. do 7. června 1942, šest měsíců po japonském útoku na Pearl Harbor a měsíc po bitvě v Korálovém moři. Americké námořnictvo poblíž atolu Midway porazilo útočící loďstvo japonského císařského námořnictva a způsobilo japonským letadlovým lodím zničující škody.",
+    "picture": "https://majklges.github.io/quiz-content/images/midway.jpg"  
+  },
+  {
+    "id": 25,
+    "category": "historie",
+    "subcategory": "bitvy",
+    "fact": "Bitva u Stirlingského mostu z roku 1297",
+    "info": "Bitva u Stirlingského mostu byla jedním z klíčových střetnutí první války Skotů za nezávislost. Dne 11. září 1297 zde skotské vojsko vedené Andrewem de Morayem a Williamem Wallacem porazilo anglickou armádu Johna de Warenne, hraběte ze Surrey, a Hugha de Cressinghama. Skotové využili úzkého dřevěného mostu přes řeku Forth a zaútočili ve chvíli, kdy pouze část anglických sil přešla na severní břeh. Nepřítel byl odříznut od posil a uvězněn v říční nivě, kde utrpěl těžké ztráty. Vítězství výrazně posílilo skotské povstání, vedlo k jmenování Williama Wallace strážcem Skotského království a znamenalo vážnou ránu anglické nadvládě ve Skotsku.",
+    "picture": "https://majklges.github.io/quiz-content/images/stirling_bridge.jpg"
+  },
+  {
+    "id": 26,
+    "category": "historie",
+    "subcategory": "osobnosti",
+    "fact": "Přemysl Otakar II., řečený král železný a zlatý (1233-1278)",
+    "info": "Pátým králem českým z rodu Přemyslovců (korunován 1261), druhorozeným synem krále Václava I. a Kunhuty Štaufské. Vnuk Přemysla I. Bitva u Kressenbrunnu, zvána též jako „první bitva na Moravském poli“, se odehrála mezi vojsky českého krále Přemysla II. Otakara a jeho bratrance uherského krále Bély IV. Vítězství Přemysla. Zemřel v bitvě Na Moravském poli (1278) v boji proti římskému králi Rudolfu I. Habsburskému.",
+    "picture": "https://majklges.github.io/quiz-content/images/premysl_otakar_ii.jpg"
+  },
+  {
+    "id": 27,
+    "category": "historie",
+    "subcategory": "bitvy",
+    "fact": "Bitva u Gravelines z roku 1588",
+    "info": "Bitva u Gravelines byla klíčovým střetem mezi španělskou Armadou a anglickým loďstvem během anglo-španělské války. Odehrála se na přelomu července a srpna 1588 v Lamanšském průlivu poblíž města Gravelines. Španělská Armada, vyslaná králem Filipem II. s cílem umožnit invazi do Anglie a obnovit katolicismus, byla tvořena těžkými a méně obratnými loděmi. Anglické loďstvo pod velením Charlese Howarda a Francise Drakea využilo rychlejších lodí, palby na dálku a zápalných lodí, které narušily španělské formace. Následný útok způsobil Armadě těžké ztráty a donutil ji k ústupu na sever. Při obeplouvání Skotska a Irska byla flotila dále ničena bouřemi. Porážka Armady znamenala konec španělských plánů na invazi do Anglie, oslabila španělskou námořní moc a potvrdila vzestup Anglie jako významné námořní velmoci.",
+    "picture": "https://majklges.github.io/quiz-content/images/gravelines.jpg"
+  },
+  {
+    "id": 28,
+    "category": "historie",
+    "subcategory": "bitvy",
+    "fact": "Bitva u Salamíny z roku 480 př. n. l.",
+    "info": "Bitva u Salamíny byla rozhodující námořní bitva řecko-perských válek, ve které řecké loďstvo pod velením Eurybiada a Themistokla porazilo perské lodě Xerxe I. Proběhla koncem září 480 př. n. l. v úzkém průlivu u ostrova Salamína. Strategický výběr místa, úzký průliv, menší a obratnější řecké lodě a silný západní vítr umožnily Řekům eliminovat početní převahu Persie. Řekové prorazili pravou stranu perské formace a potopili asi 200 nepřátelských lodí, včetně vlajkové lodi Ariabignése, zatímco sami ztratili kolem 40 lodí. Vítězství zajistilo kontrolu nad mořem Athénám, znemožnilo Persii zásobovat svou armádu a přimělo ji k ústupu z většiny Řecka. Bitva měla zásadní strategický význam a je považována za jednu z nejvýznamnějších námořních bitev starověku, zpracovanou i dramaticky v Aischylově hře Peršané.",
+    "picture": "https://majklges.github.io/quiz-content/images/salamis.jpg"
+  },
+  {
+    "id": 29,
+    "category": "historie",
+    "subcategory": "bitvy",
+    "fact": "Bitva u Thermopyl z roku 480 př. n. l.",
+    "info": "Bitva u Thermopyl byla rozhodujícím střetem mezi spojenými řeckými městskými státy, vedenými Spartou, a perskou armádou krále Xerxa I. Odehrála se v 480 př. n. l. v úzké soutěsce Thermopyly. Řekové, přibližně 7 000 mužů, včetně 300 Sparťanů pod vedením krále Leónida, čelili mnohonásobně přesile perské armády. Díky strategické pozici a taktice fingovaného ústupu dokázali několik dní odolávat, než byli nakonec přemoženi po zradě Efialta, který Peršanům ukázal tajnou stezku přes pohoří Kallidromos. Bitva se stala symbolem odvahy a hrdinství, inspirující epitafy a kulturní odkazy, například slavný výrok 'Molón labe!' Leónida. Strategicky bitva poskytla čas na evakuaci Athén a přispěla k následnému vítězství Řeků v námořní bitvě u Salamíny.",
+    "picture": "https://majklges.github.io/quiz-content/images/thermopylae.jpg"
+  },
+  {
+    "id": 30,
+    "category": "historie",
+    "subcategory": "bitvy",
+    "fact": "Bitva u Gettysburgu z roku 1863",
+    "info": "Bitva u Gettysburgu proběhla v červenci 1863 v okolí města Gettysburg v Pensylvánii a byla největším střetnutím Americké občanské války. Severní armáda Unie pod velením generálmajora George Meade porazila Armádu severní Virginie generála Roberta E. Leea. Bitva byla rozhodující pro vývoj války – zmařila Leeovy plány na invazi na sever a posílila morálku Unie. Probíhala na strategicky významném terénu s kopci jako Seminary Ridge, Cemetery Ridge, Little Round Top a Culp's Hill. Jižané podnikli několik útoků, včetně známého Pickettova útoku, ale utrpěli těžké ztráty a byli nuceni ustoupit. Vznikl zde vojenský hřbitov, kde prezident Abraham Lincoln později pronesl Gettysburský projev.",
+    "picture": "https://majklges.github.io/quiz-content/images/gettysburg.jpg"
+  },
+  {
+    "id": 31,
+    "category": "historie",
+    "subcategory": "bitvy",
+    "fact": "Bitvy u Saratogy z roku 1777",
+    "info": "Bitvy u Saratogy, svedené 19. září a 7. října 1777 během americké války za nezávislost, představovaly rozhodující vítězství amerických kolonistů nad britskou armádou. Britský generál John Burgoyne vedl invazi z Kanady s cílem odříznout Novou Anglii od ostatních kolonií, avšak kvůli logistickým problémům a nedostatečné koordinaci zůstal izolován. Americké síly pod velením Horatia Gatese, s významným přispěním Benedikta Arnolda, dokázaly Brity zastavit v bitvě u Freemanovy farmy a následně je porazit v bitvě na výšinách Bemis Heights. Burgoyne byl obklíčen a 17. října 1777 kapituloval. Toto vítězství přesvědčilo Francii ke vstupu do války na straně Američanů a zásadně změnilo průběh konfliktu.",
+    "picture": "https://majklges.github.io/quiz-content/images/saratoga.jpg"
+  },
+  {
+    "id": 32,
+    "category": "historie",
+    "subcategory": "bitvy",
+    "fact": "Bitva u Borodina z roku 1812",
+    "info": "Nejkrvavější jednodenní bitvou napoleonských válek a předznamenala zničení Napoleonovy Velké armády. Proběhla 7. září 1812 přibližně 110 km západně od Moskvy. Francouzská Velká armáda císaře Napoleona I. se zde střetla s ruskými vojsky generála Michaila Kutuzova. Bojovalo zde asi 250 000 vojáků a ztráty na obou stranách byly mimořádně vysoké. Přestože Napoleon obsadil bojiště a následně vstoupil do Moskvy, ruská armáda ustoupila v bojeschopném stavu. Moskva byla vyklizena a zapálena, což spolu s opotřebovací strategií Rusů, hladem a zimou vedlo k téměř úplnému zničení Napoleonovy armády.",
+    "picture": "https://majklges.github.io/quiz-content/images/borodino.jpg"
+  },
+  {
+    "id": 33,
+    "category": "historie",
+    "subcategory": "bitvy",
+    "fact": "Bitva u Lipska z 16.-19. října 1813",
+    "info": "Největší a rozhodující bitvou napoleonských válek, po níž Napoleon rezignoval a odešel do exilu na Elbu. Bitva u Lipska, známá jako Bitva národů, se konala u německého Lipska. Napoleon zde čelil přesile více než 330 000 spojeneckých vojáků. Boje začaly 16. října patem, vrcholily 18. října masivní ofenzívou, která způsobila obrovské ztráty na obou stranách. Při ústupu přes řeku Elster 19. října byl zničen jediný most, což odřízlo tisíce Francouzů, mezi nimi i polského knížete Poniatowského. Zbytek armády ustoupil směrem k Francii. Bitva znamenala konečný zlom proti Napoleonovi a vedla k jeho abdikaci.",
+    "picture": "https://majklges.github.io/quiz-content/images/leipzig.jpg"
+  },
+  {
+    "id": 34,
+    "category": "historie",
+    "subcategory": "imperia",
+    "fact": "Sámova říše (623/624-659) byl první slovanský stát ve střední Evropě",
+    "info": "Sámova říše byla kmenový svaz Slovanů ve střední Evropě, který vznikl spojením slovanských kmenů pod vedením franského kupce Sáma. Říše byla významná svou odolností vůči Avarům a později i franské říši. Nejznámější je bitva u Wogastisburgu (631), kde Slované porazili franská vojska krále Dagoberta I. Po Sámově smrti (658/661) se říše rozpadla, ale její hradiště pravděpodobně posloužila jako jádro pro vznik Velkomoravské říše.",
+    "picture": "https://majklges.github.io/quiz-content/images/samova_rise.jpg"
+  },
+  {
+    "id": 35,
+    "category": "historie",
+    "subcategory": "imperia",
+    "fact": "Velká Morava - první stabilní západoslovanské knížectví (833-907)",
+    "info": "Velká Morava byla první stabilní říší západních Slovanů ve střední Evropě, vznikla připojením Nitranského knížectví knížetem Mojmírem I. v roce 833. který dal jméno dynastii Mojmírovců. Území zahrnovalo převážně Moravu, Slovensko a části dnešního Maďarska, od roku 867 i Čechy a část Malopolska. Stát přijímal křesťanství a ve 9. století proběhla cyrilometodějská misie, která položila základy církevní organizace a hlaholice. Nejvýznamnějším panovníkem byl Svatopluk I., který konsolidoval říši a získal papežské uznání arcibiskupství. Zánik nastal v důsledku maďarských nájezdů a vnitřních konfliktů kolem roku 907.",
+    "picture": "https://majklges.github.io/quiz-content/images/velka_morava.jpg"
+  },
+  {
+    "id": 36,
+    "category": "historie",
+    "subcategory": "osobnosti",
+    "fact": "Svatí Cyril a Metoděj - soluňští bratři, apoštolové Slovanů",
+    "info": "Svatí Konstantin (Cyril) a Metoděj byli křesťanští misionáři, kněží a bratři ze Soluně, kteří na Velké Moravě prosadili staroslověnštinu jako bohoslužebný jazyk. Na pozvání knížete Rastislava přišli na Velkou Moravu (863)  Konstantin vytvořil písmo hlaholici. Konstantin, mladší bratr, byl významný teolog a učitel, Metoděj starší bratrem a byzantským úředníkem, který po Konstantinově smrti dokončil misii a stal se prvním arcibiskupem moravsko-panonské arcidiecéze. Oba byli prohlášeni spolupatrony Evropy a hlavními patrony Moravy. Jejich svátek se slaví 5. července v Česku a na Slovensku.",
+    "picture": "https://majklges.github.io/quiz-content/images/cyril_metodej.jpg"
+  },
+  {
+    "id": 37,
+    "category": "historie",
+    "subcategory": "bitvy",
+    "fact": "Bitva u Wogastisburgu (631/632)",
+    "info": "Vítězství Sámovy říše nad FrankyBitva u Wogastisburgu proběhla mezi slovanskými kmeny Sámovy říše a franskými vojsky krále Dagoberta I. Frankové vpadli do Sámovy říše ve třech proudech a oblehli pevnost Wogastisburg. Po třech dnech bojů byli obléhatelé poraženi a zbytek franských vojsk utekl. Slované poté podnikali protiútoky na Durynsko, čímž se Sámova říše rozrostla a posílila svůj vliv v regionu.",
+    "picture": "https://majklges.github.io/quiz-content/images/wogastisburg.jpg"
+  },
+  {
+    "id": 38,
+    "category": "historie",
+    "subcategory": "bitvy",
+    "fact": "Bitva u Waterloo (18. června 1815)",
+    "info": "Bitva se odehrála 18. června 1815 asi 20 km jižně od Bruselu. Francouzská armáda Napoleona I. utrpěla porážku od anglo-batavské armády vévody z Wellingtonu a pruského vojska pod vedením maršála Blüchera. Bitva znamenala konec Napoleonských válek a pro Napoleona byla jedním z posledních vojenských vystoupení. Po bitvě abdikoval a poslán do vyhnanství na ostrov Svaté Heleny. Zde také ve věku jednapadesáti let v roce 1821 zemřel.",
+    "picture": "https://majklges.github.io/quiz-content/images/waterloo.jpg"
+  },
+  {
+    "id": 39,
+    "category": "historie",
+    "subcategory": "udalosti",
+    "fact": "Přemysl Otakar I (1167-1230) získává Zlatou bulu sicilskou (1212)",
+    "info": "Vydal 26. září 1212 v Basileji budoucí římský král Fridrich II. Novodobý název listiny, resp. listin, je odvozen od zlaté buly (kovové pečeti) sicilského krále, která je k dokumentu přivěšena.Listina především obsahuje privilegium, které potvrzuje dědičnost titulu českého krále a stanovuje jeho volbu na domácí půdě a to, že římský panovník bude volbu jen stvrzovat.",
+    "picture": "https://majklges.github.io/quiz-content/images/bula_sicilska.jpg"
+  },
+  {
+    "id": 40,
+    "category": "historie",
+    "subcategory": "osobnosti",
+    "fact": "Václav III. (1289-1306) Přemyslovec",
+    "info": "Český, polský a uherský král, poslední panovník z dynastie Přemyslovců. Byl synem českého a polského krále Václava II. a jeho manželky Guty Habsburské. Byl zavražděn ve čtvrtek 4. srpna 1306 v Olomouci. Zemřel ve věku 16 let.Po jeho smrti zvolen králem Jindřich Korutanský",
+    "picture": "https://majklges.github.io/quiz-content/images/vaclav_3.jpg"
+  },
+  {
+    "id": 41,
+    "category": "historie",
+    "subcategory": "osobnosti",
+    "fact": "Jan Lucemburský (1296-1346), známý též pod přízviskem Slepý či Král Cizinec",
+    "info": "Jan byl jediným synem lucemburského hraběte, římského krále Jindřicha VII. Oženil se s Eliškou Přemyslovnou. Jeho syn byl Karel IV. rozený Václav. Zemřel v bitvě u Kresčaku (jako slepý) na straně Francie ve stoleté válce. Účastnil se i jeho syn Karel IV. Jako poslední slova jsou mu připisována: „Toho Buoh dá nebude, aby král český z boje utiekal...“",
+    "picture": "https://majklges.github.io/quiz-content/images/jan_lucembursky.jpg"
+  },
+  {
+    "id": 42,
+    "category": "historie",
+    "subcategory": "osobnosti",
+    "fact": "Karel IV.(1316-1378) Lucemburský, známý jako Otec vlasti",
+    "info": "První český král, který se stal také císařem Svaté říše římské, Karel IV. byl syn dědičky Přemyslovců Elišky a českého krále Jana Lucemburského. Již jako císař nechal vytvořit Zlatou bulu Karla IV., nejvýznamnější říšský ústavní zákon, který platil až do zániku Svaté říše římské roku 1806. Jako český král proslul založením Karlovi univerzity (1348) v Praze, výstavbou Nového Města pražského, stavbou Karlova mostu přes řeku Vltavu v Praze, zbudováním hradu Karlštejna. Spolu s otcem započali se stavbou Svatovítského chrámu. Karel IV. je vyobrazen na české bankovce o nominální hodnotě 100 Kč. Vyhrál anketu největší Čech (2005).",
+    "picture": "https://majklges.github.io/quiz-content/images/karel_4.jpg"
+  },
+  {
+    "id": 43,
+    "category": "historie",
+    "subcategory": "osobnosti",
+    "fact": "Marie Terezie (1717, Vídeň-1780, Vídeň) Habsburská",
+    "info": "Arcivévodkyně rakouská, královna uherská, královna česká a markraběnka moravská.Byla jedinou vládnoucí ženou na českém trůně. Měla 16 dětí. Za svého života si vysloužila přezdívku matka Evropy a rovněž přezdívky tchyně Evropy a babička Evropy. Jejím manželem byl František I. Štěpán Lotrinský, v letech 1745-1765 římský císař. Potomci např. Josef II, Leopold II, Marie Antoinetta. K nejvýznamnějším reformám (Terezianské reformy) s přesahem až do současnosti patřilo zavedení povinné školní docházky (1774). V roce 1770 bylo uzákoněno číslování domů, jak ve městech, tak i na vesnicích.",
+    "picture": "https://majklges.github.io/quiz-content/images/marie_terezie.jpg"
+  },
+  {
+    "id": 44,
+    "category": "hudba",
+    "subcategory": "osobnosti",
+    "fact": "Johann Sebastian Bach (1685 Eisenach-1750 Lipsko)",
+    "info": "Jeden z největších skladatelů a završitele baroka. Mezi jeho nejznámější kompozice patří Braniborské koncerty, Dobře temperovaný klavír, Mše h moll, Matoušovy pašije, Vánoční oratorium, Hudební obětina, Goldbergovy variace a Tokáta a fuga d moll.",
+    "picture": "https://majklges.github.io/quiz-content/images/bach.jpg"
+  },
+  {
+    "id": 45,
+    "category": "hudba",
+    "subcategory": "osobnosti",
+    "fact": "Georg Friedrich Händel (1685 Halle nad Sálou-1759 Londýn)",
+    "info": "Německý hudební skladatel barokní éry. Spolu s Bachem a Telemannem patří k nejhranějším barokním skladatelům. Složil přes čtyřicet oper (Rinaldo či Julius Caesara), třicítku oratorií. Slávu mu přineslo především oratorium Mesiáš, orchestrální suity Vodní hudba a Hudba k ohňostroji. Roku 1753 oslepl.",
+    "picture": "https://majklges.github.io/quiz-content/images/handel.jpg"
+  },
+  {
+    "id": 46,
+    "category": "hudba",
+    "subcategory": "osobnosti",
+    "fact": "Wolfgang Amadeus Mozart (1756 Salcburk - 1791 Vídeň)",
+    "info": "Rakouský klasicistní hudební skladatel a klavírní virtuos. Skládal již v pěti letech. Hrál na klavír a na housle. Spolu s otcem a sestrou koncertoval a předváděl svá raná díla před evropskou šlechtou. Vytvořil přes 600 děl. K jeho absolutně nejslavnějším kompozicím patří opery Kouzelná flétna, Figarova svatba (Mí Pražané mi rozumí) a Don Giovanni (premiéra v Praze), nedokončené Requiem d moll, serenada Malá noční hudba a Symfonie č. 40 g moll. ",
+    "picture": "https://majklges.github.io/quiz-content/images/mozart.jpg"
+  },
+  {
+    "id": 47,
+    "category": "zajímavosti",
+    "fact": "Člověk je ráno vyšší než večer o 1-2cm",
+    "info": "Příčinu lze najít u naší páteře. Ta představuje asi 35 procent celkové výšky těla. Tvoří ji 33 obratlů, oddělených od sebe meziobratlovými chrupavkovými ploténkami. Ty umožňují veškerý pohyb a rotaci páteře. Stlačováním během dne však ztrácejí tzv. synoviální tekutinu a ztenčují se. Tento úbytek je pak patrný i na naší výšce. Ve spánku se ale páteř znovu regeneruje, neboť nepodléhá stlačení vlivem gravitace.",
+    "picture": "https://majklges.github.io/quiz-content/images/pater_vyska.jpg"
+  },
+  {
+    "id": 48,
+    "category": "zajímavosti",
+    "fact": "Kůže váží přibližně 3,6 kg a je největším orgánem vašeho těla",
+    "info": "Kůže je velmi důležitým orgánem, který chrání naše tělo před vnějšími vlivy, jako jsou bakterie, viry nebo slunce. Průměrná dospělá osoba má přibližně 2 metry čtvereční kůže, váží přibližně 3,6 kg a pokrývá celou tělesnou plochu. Je to největší orgán vašeho těla a má mnoho funkcí, jako je regulace teploty nebo uchovávání vlhkosti.",
+    "picture": "https://majklges.github.io/quiz-content/images/kuze.jpg"
+  },
+  {
+    "id": 49,
+    "category": "historie",
+    "subcategory": "udalosti",
+    "fact": "Atentát na Františka Ferdinanda d’Este 28. června 1914 v Sarajevu",
+    "info": "Atentát na Františka Ferdinanda d’Este, arcivévodu a následníka rakousko‑uherského trůnu, byl spáchán 28. června 1914 v Sarajevu během jízdy městem, kdy byli arcivévoda a jeho choť Žofie z Hohenbergu napadeni skupinou atentátníků. Nejprve neúspěšný bombový útok následoval smrtelný výstřel srbského atentátníka Gavrila Principa, který je zastřelil. Událost vyvolala mezinárodní krizi, známou jako červencová krize, která se považuje za jednu z hlavních příčin vypuknutí první světové války.",
+    "picture": "https://majklges.github.io/quiz-content/images/atentat_na_frantiska_ferdinanda.jpg"
+  },
+  {
+    "id": 50,
+    "category": "historie",
+    "subcategory": "udalosti",
+    "fact": "Atentát na Abrahama Lincolna 14. dubna 1865 ve Washingtonu, D.C.",
+    "info": "Atentát na Abrahama Lincolna se odehrál 14. dubna 1865 ve Fordově divadle ve Washingtonu, D.C., když byl 16. prezident Spojených států amerických Abraham Lincoln zastřelen zezadu do hlavy během sledování divadelní hry Our American Cousin známým hercem a sympathizantem Konfederace Johnem Wilkesem Boothem. Lincoln zemřel následujícího rána v Petersen House naproti divadlu. Součástí širšího plánu atentátu bylo také zabití viceprezidenta Andrewa Johnsona a ministra zahraničí Williama H. Sewarda, ale tyto útoky selhaly.",
+    "picture": "https://majklges.github.io/quiz-content/images/atentat_na_abrahama_lincolna.jpg"
+  },
+  {
+    "id": 51,
+    "category": "historie",
+    "subcategory": "udalosti",
+    "fact": "Atentát na Gaiuse Julia Caesara 44 př.n.l. v Římě",
+    "info": "Gaius Julius Caesar, římský diktátor, byl zavražděn 15.března 44 př.n.l. během zasedání senátu v Curii Pompeia v Římě. Skupina více než šedesáti senátorů vedená Markem Juniem Brutus a Gaiem Cassiem Longinem ho ubodala celkem 23 bodnými ranami; většina spiklenců se domnívala, že tak zabrání Caesarově koncentraci moci a ochránila římskou republiku. Jeho smrt však vedla k dalším politickým konfliktům, z nichž vzešel jeho adoptivní syn Octavianus (později císař Augustus).",
+    "picture": "https://majklges.github.io/quiz-content/images/atentat_na_julia_caesara.jpg"
+  },
+  {
+    "id": 52,
+    "category": "historie",
+    "subcategory": "udalosti",
+    "fact": "Atentát na Martina Luthera Kinga Jr. 1968 v Memphis, Tennessee, USA",
+    "info": "Martin Luther King Jr., významný americký vůdce hnutí za občanská práva, byl 4. dubna 1968 ve městě Memphis (stát Tennessee, USA) smrtelně zastřelen střelou na balkóně motel Lorraine, kde se nacházel během organizační cesty za právy upracovaných černošských pracovníků. Podezřelým střelcem byl James Earl Ray, který byl později zatčen, přiznal se a odsouzen na 99 let vězení. Následky atentátu vedly k rozsáhlému násilí a nepokojům ve více než stovce amerických měst a měly hluboký dopad na americkou společnost a hnutí občanských práv.",
+    "picture": "https://majklges.github.io/quiz-content/images/atentat_na_martina_luthera_kinga.jpg"
+  },
+  {
+    "id": 53,
+    "category": "historie",
+    "subcategory": "udalosti",
+    "fact": "Atentát na Heydricha (Operace Anthropoid) 27. května 1942",
+    "info": "Atentát na Reinharda Heydricha byla úspěšná diverzní akce československých parašutistů Jan Kubiš a Jozef Gabčík, kteří 27. května 1942 v Praze‑Libeň napadli zastupujícího říšského protektora Reinharda Heydricha. Heydrich byl těžce zraněn a 4. června 1942 zemřel. Při pokusu se Gubčíkovi zasekl samopal Stan. Odvetou nacisté rozpoutali tzv. Heydrichiádu, během níž byly vyhlazeny obce Lidice a Ležáky a mnoho osob popraveno či internováno.",
+    "picture": "https://majklges.github.io/quiz-content/images/atentat_na_heydricha.jpg"
+  },
+  {
+    "id": 54,
+    "category": "historie",
+    "subcategory": "udalosti",
+    "fact": "Atentát na Aloise Rašína 5. ledna 1923 v Praze",
+    "info": "Atentát na Aloise Rašína byl politicky motivovaný útok, při kterém byl československý ministr financí Alois Rašín postřelen devatenáctiletým anarchokomunistou Josefem Šoupalem před domem v Žitné ulici v Praze. Rašín byl těžce zraněn a po dlouhém boji o život zemřel 18. února 1923. Po atentátu byl přijat zákon na ochranu republiky a Šoupal byl odsouzen na 18 let těžkého žaláře.",
+    "picture": "https://majklges.github.io/quiz-content/images/atentat_na_aloise_rasina.jpg"
+  },
+  {
+    "id": 55,
+    "category": "historie",
+    "subcategory": "udalosti",
+    "fact": "Bitva u Lipan 1434",
+    "info": "Bitva u Lipan se odehrála 30. května 1434 mezi vsí Hřiby a Lipskou horou jižně od vesnice Lipany. Nejkrvavější bitva husitských válek. Utrakvisticko‑katolická aliance vedená Divišem Bořkem z Miletínka porazila polní vojska radikálních táboritů a sirotků. V bitvě zahynul vůdce radikálů Prokop Holý a porážka umožnila umírněné straně uzavřít dohodu s císařem Zikmundem Lucemburským, což předznamenalo konec husitských válek v zemích Koruny české.",
+    "picture": "https://majklges.github.io/quiz-content/images/bitva_u_lipan.jpg"
+  },
+  {
+    "id": 56,
+    "category": "historie",
+    "subcategory": "udalosti",
+    "fact": "Husitské války 1419–1434 v zemích Koruny české a střední Evropě",
+    "info": "Husitské války byly konflikt, který vypukl 30. července 1419 po smrti Mistra Jana Husa a trval až do 30. května 1434. Bojovalo se mezi husitskými vojsky reformního hnutí a křižáckými a katolickými vojsky římskokatolické církve a spojenců. Výsledkem bylo vítězství umírněných husitů spolu s katolíky nad radikálními husity, uznání přijímání z kalicha katolickou církví a konec válek po porážce radikálů, zejména v bitvě u Lipan. Husitské války významně ovlivnily politický a vojenský vývoj v Čechách i Evropě.",
+    "picture": "https://majklges.github.io/quiz-content/images/husitske_valky.jpg"
+  },
+  {
+    "id": 57,
+    "category": "historie",
+    "subcategory": "udalosti",
+    "fact": "První pražská defenestrace 30. července 1419 v Praze",
+    "info": "První pražská defenestrace proběhla 30. července 1419, kdy novoměstští husité vedení Janem Želivským zaútočili na Novoměstskou radnici v Praze a svrhnuli z oken konšely a další protihusitské představitele města. Tato událost je považována za počátek husitských válek ve středověkých českých zemích a významně ovlivnila další politický a náboženský vývoj v Čechách.", 
+    "picture": "https://majklges.github.io/quiz-content/images/prazska_defenestrace_1419.jpg"
+  },
+  {
+    "id": 58,
+    "category": "historie",
+    "subcategory": "udalosti",
+    "fact": "Druhá pražská defenestrace 1483 v Praze",
+    "info": "Druhá pražská defenestrace proběhla 24. září 1483 na Staroměstské a Novoměstské radnici v Praze během vypjatých nábožensko‑politických sporů mezi husity (příznivci kališnické víry) a katolíky. Radikální husité povstali proti vládě, svrhli a z oken vyhodili purkmistra a několik konšelů města. Na rozdíl od první a třetí defenestrace tato událost nepřerostla v rozsáhlé války, ale vedla k ústupku katolíků a nakonec i ke smíru mezi oběma stranami a vyhlášení rovnoprávnosti obou vyznání v Českém království. Kutnohorský náboženský mír ",
+    "picture": "https://majklges.github.io/quiz-content/images/druha_prazska_defenestrace_1483.jpg"
+  },
+  {
+    "id": 59,
+    "category": "historie",
+    "subcategory": "udalosti",
+    "fact": "Pražská defenestrace 1618 na Pražském hradě",
+    "info": "Třetí Pražská defenestrace proběhla 23. května 1618 na Pražském hradě, když čeští stavové pod vedením Jindřicha Matyáše Thurna shledali královské místodržící – Viléma Slavatu z Chlumu a Košumberka, Jaroslava Bořitu z Martinic a jejich sekretáře Filipa Fabricia – vinnými z porušování Rudolfova majestátu a vyhodili je z oken. Událost, při níž naštěstí nikdo nezemřel, zahájila české stavovské povstání a stala se jedním z hlavních spouštěčů třicetileté války v Evropě.", 
+    "picture": "https://majklges.github.io/quiz-content/images/prazska_defenestrace_1618.jpg"
+  },
+  {
+    "id": 60,
+    "category": "historie",
+    "subcategory": "osobnosti",
+    "fact": "Jan Žižka z Trocnova a Kalicha (1360-1424)",
+    "info": "Jan Žižka byl významný český vojevůdce a hejtman husitského hnutí během husitských válek. Narodil se kolem roku 1360 v Trocnově a stal se jedním z nejúspěšnějších velitelů českých vojsk, známý tím, že nikdy neztratil bitvu. Vedl vojenské jednotky táboritů a sirotků proti křižáckým vojskům i císařským silám, přičemž proslul inovativními taktikami, včetně použití vozové hradby. Přišel o oko v červenci 1421 během obléhání hradu Rabí. Zůstal aktivním velitelem až do své smrti v roce 1424 poblíž Přibyslavi. Je považován za jednoho z největších vojenských stratégů středověku a symbol české národní hrdosti.",
+    "picture": "https://majklges.github.io/quiz-content/images/jan_zizka.jpg"
+  },
+  {
+    "id": 61,
+    "category": "sport",
+    "subcategory": "osobnosti",
+    "fact": "Usain St. Leo Bolt (1986, Jamajka)",
+    "info": "Usain Bolt je jamajský bývalý atlet a sprinter, považovaný za nejrychlejšího muže všech dob. Drží světové rekordy v bězích na 100 m (9,58 s) a 200 m (19,19 s), které vytvořil v roce 2009 v Berlíně. Na třech po sobě jdoucích olympiádách (2008 Peking, 2012 Londýn a 2016 Rio) vyhrál zlaté medaile v bězích na 100 m a 200 m, a také v štafetě 4 × 100 m, čímž se stal jedním z nejúspěšnějších sprinterů v historii atletiky. Po olympijských hrách v roce 2016 ukončil v roce 2017 soutěžní kariéru.",
+    "picture": "https://majklges.github.io/quiz-content/images/usain_bolt.jpg"
+  },
+  {
+    "id": 62,
+    "category": "sport",
+    "subcategory": "osobnosti",
+    "fact": "Emil Zátopek (1922–2000)",
+    "info": "Emil Zátopek byl československý vytrvalostní běžec považovaný za jednoho z největších běžců 20. století. Proslul hlavně tím, že na Letních olympijských hrách v Helsinkách roku 1952 získal tři zlaté medaile — v bězích na 5000m, 10 000m a v maratonu, který běžel poprvé v životě. Během své kariéry vytvořil řadu světových rekordů a proslul svými náročnými tréninkovými metodami. Získal také zlatou medaili na olympiádě v Londýně 1948 (10 000m) a celkově byl jedním z nejúspěšnějších československých atletů historie.",
+    "picture": "https://majklges.github.io/quiz-content/images/emil_zatopek.jpg"
+  },
+  {
+    "id": 63,
+    "category": "sport",
+    "subcategory": "osobnosti",
+    "fact": "Věra Čáslavská (1942–2016)",
+    "info": "Věra Čáslavská byla československá sportovní gymnastka a jedna z nejúspěšnějších atletek v historii. Během své kariéry získala sedm olympijských zlatých medailí (včetně z Tokio 1964 a Mexico City 1968), stříbrné medaile na mistrovství světa a evropských šampionátech, a dominovala ve víceboji i jednotlivých disciplínách. Byla také sportovní funkcionářkou – po sametové revoluci působila jako předsedkyně Československého a následně Českého olympijského výboru a byla členkou Mezinárodního olympijského výboru. Proslula i svým gestem protestu proti sovětské okupaci během olympiády v Mexico City 1968.",
+    "picture": "https://majklges.github.io/quiz-content/images/vera_caslavska.jpg"
+},
+{
+  "id": 64,
+  "category": "sport",
+  "subcategory": "ligy",
+  "fact": "Sportovní gymnastika – soutěžní sport od 19. století",
+  "info": "Sportovní gymnastika je odvětví gymnastiky, kde jednotliví závodníci předvádějí silové a akrobatické prvky na nářadí nebo na prostných. Muži i ženy soutěží v různých disciplínách (např. prostná, kladina, bradla, hrazda). Sportovní gymnastika je součástí programu letních olympijských her již od roku 1896 (ženy od roku 1928 Amsterdam) a mistrovství světa se pořádají od roku 1903. Pravidla zahrnují hodnocení obtížnosti a provedení sestav, přičemž známky se od roku 2004 dělí na obtížnost a provedení.",
+  "picture": "https://majklges.github.io/quiz-content/images/sportovni_gymnastika.jpg"
+},
+{
+  "id": 65,
+  "category": "historie",
+  "subcategory": "osobnosti",
+  "fact": "Otto Wichterle (1913-1998)",
+  "info": "Otto Wichterle byl český chemik, profesor a vynálezce, považovaný za zakladatele makromolekulární chemie a nejvíce známý díky vynálezu moderních měkkých kontaktních čoček. Byl autorem stovek patentů a publikací v organické a polymerní chemii. Svou práci začal ve Výzkumném ústavu Baťa ve Zlíně, kde se podílel na vývoji polyamidu silonu, a později ve své vlastní domácí laboratoři vyvinul metodou odstředivého lití první hydrogelové kontaktní čočky. Po sametové revoluci se stal předsedou Československé akademie věd a získal řadu ocenění za svůj vědecký a technologický přínos.",
+  "picture": "https://majklges.github.io/quiz-content/images/otto_wichterle.jpg"
+},
+{
+  "id": 66,
+  "category": "historie",
+  "subcategory": "osobnosti",
+  "fact": "Josef Ressel (1793–1857)",
+  "info": "Josef Ludwig Franz Ressel byl český lesník a vynálezce, který navrhl jeden z prvních funkčních lodních šroubů (propellerů), jež zásadně ovlivnily moderní námořní dopravu. Narodil se v Chrudimi a studoval v Linci a na univerzitě ve Vídni. Pracoval jako lesní úředník v různých částech rakouské monarchie a experimentoval s prototypem lodního šroubu, za který získal patent v roce 1827. Kromě toho vyvíjel i další technická zařízení, jako pneumatickou poštu nebo kuličková ložiska. Zemřel v Lublani (dnešní Slovinsko).",
+  "picture": "https://majklges.github.io/quiz-content/images/josef_ressel.jpg"
+},
+{
+  "id": 67,
+  "category": "historie",
+  "subcategory": "osobnosti",
+  "fact": "Prokop Diviš (1698-1765)",
+  "info": "Prokop Diviš, vlastním jménem Václav Divíšek, byl český premonstrátský kněz, přírodovědec, teolog a vynálezce, známý především díky svým experimentům s elektřinou a konstrukcí jedné z prvních meteorologických strojů fungujících jako bleskosvod v Evropě. Diviš rovněž konstruoval electrické experimentální stroje a hudební nástroj „Zlatý Diviš“. Je někdy považován za evropského spoluvynálezce bleskosvodu, nezávisle na Benjaminu Franklinovi.",
+  "picture": "https://majklges.github.io/quiz-content/images/prokop_divis.jpg"
+},
+{
+  "id": 68,
+  "category": "historie",
+  "subcategory": "osobnosti",
+  "fact": "Johannes Gensfleisch, řečený Gutenberg (1400–1468)",
+  "info": "Johannes Gutenberg byl německý vynálezce a řemeslník, který zavedl technologii **mechanického knihtisku s jednotlivě sestavovanými literami** (pohyblivé typy), což umožnilo masovou produkci knih a zásadně změnilo šíření informací v Evropě a později na celém světě. Je známý především díky **Gutenbergově bibli**, jednomu z prvních a nejvýznamnějších tištěných děl v historii tisku.",
+  "picture": "https://majklges.github.io/quiz-content/images/johannes_gutenberg.jpg"
+},
+{
+  "id": 69,
+  "category": "historie",
+  "subcategory": "osobnosti",
+  "fact": "James Watt (1736–1819)",
+  "info": "James Watt byl skotský inženýr, mechanik a vynálezce, jehož zásadní zlepšení parního stroje významně přispělo k průmyslové revoluci. Watt zlepšil dřívější návrhy parních strojů zejména zavedením **odděleného kondenzátoru**, což zvýšilo účinnost a snížilo spotřebu paliva. Spolu s partnerem Matthewem Boultonem své stroje vyráběl a šířil v průmyslu. Watt také vyvinul řadu dalších technických vylepšení, jako například **dvoučinný stroj, rotační pohon, tlakový regulátor a tlakový měřič**, a zavedl koncept „koňské síly“. Měrná jednotka výkonu „watt“ je pojmenována právě po něm.",
+  "picture": "https://majklges.github.io/quiz-content/images/james_watt.jpg"
+}
+
+]
