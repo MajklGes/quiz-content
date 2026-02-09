@@ -641,13 +641,90 @@
   "id": 81,
   "category": "historie",
   "subcategory": "osobnosti",
-  "fact": "Nero – římský císař )37-68)",
+  "fact": "Nero – římský císař (37-68)",
   "info": "Nero Claudius Caesar Augustus Germanicus byl římský císař. Byl posledním císařem z dynastie Claudia–Julia. Nero je známý svým okázalým životním stylem, pronásledováním křesťanů a pověstí o vypálení Říma během jeho vlády. Je znám vraždou vlastní matky Agrippiny, manželky Octavie, adoptivního bratra Britannika a vychovatele Senecy (donutil ho si podříznout žíly). Jeho vláda skončila povstáním a jeho následnou sebevraždou (při níž pronesl Jaký to umělec ve mně hyne).", 
   "picture": "https://majklges.github.io/quiz-content/images/nero.jpg"
-  } 
-
-
-
+  },
+  {
+  "id": 82,
+  "category": "filozofie",
+  "subcategory": "osobnosti",
+  "fact": "Seneca (4-65)",
+  "info": "Lucius Annaeus Seneca (Seneca mladší) byl římský stoický filosof, dramatik, spisovatel a státník. Byl významným učitelem a poradcem císaře Nera. Je známý svými filozofickými spisy o etice a stoicismu, které zdůrazňují klid, ctnost a ovládání vlastních emocí. Nakonec byl donucen spáchat sebevraždu (podřízl si žíly) na příkaz císaře Nera během politických čistek.",
+  "picture": "https://majklges.github.io/quiz-content/images/seneca.jpg"
+  },
+  {
+  "id": 83,
+  "category": "historie",
+  "subcategory": "instituce",
+  "fact": "Pretoriánská garda – elitní stráž římských císařů",
+  "info": "Pretoriánská garda byla elitní jednotka, která sloužila jako osobní stráž římských císařů. Její vznik se připisuje Augustovi, který kolem roku 27 př. n. l. vytvořil stálé kohorty této gardy. Pretoriáni často hráli významnou politickou roli – někdy sesazovali nebo dosazovali císaře, protože jejich vliv byl v pozdním období římského impéria velmi silný.", 
+  "picture": "https://majklges.github.io/quiz-content/images/pretorians.jpg"
+  },
+  {
+  "id": 84,
+  "category": "historie",
+  "subcategory": "osobnosti",
+  "fact": "Marcus Aurelius (121-180)",
+  "info": "Marcus Aurelius Antoninus, známý jako Filosof na trůně, byl římský císař od roku 161 do 180 n.l.Je považován za jednoho z nejvýznamnějších císařů římského impéria a zároveň významného stoického filozofa. Je autorem filozofických meditací známých jako „Meditace“, které se staly jedním z nejdůležitějších textů stoicismu. Během jeho vlády musela říše čelit válečným konfliktům (markomanské války) i morovým epidemiím (antoninský mor), ale byl oceňován jako spravedlivý a moudrý vládce.",
+  "picture": "https://majklges.github.io/quiz-content/images/marcus_aurelius.jpg"
+  },
+  {
+  "id": 85,
+  "category": "historie",
+  "subcategory": "osobnosti",
+  "fact": "Kleopatra VII – poslední královna Egypta (69-30 př.n.l.)",
+  "info": "Kleopatra VII. Thea Filopator byla poslední samostatnou panovnicí ptolemaiovského Egypta. Proslula svojí inteligencí, politickými spojenectvími s římskými vůdci Juliem Caesarem a Markem Antoniem a snahou udržet nezávislost Egypta vůči Římu. Po porážce u bitvy u Actia s Octavianovými silami spáchala sebevraždu (ušktnutí hadem), čímž skončila dynastie Ptolemaiovců a Egypt se stal římskou provincií.", 
+  "picture": "https://majklges.github.io/quiz-content/images/kleopatra.jpg"
+  },
+  {
+  "id": 86,
+  "category": "historie",
+  "subcategory": "války",
+  "fact": "Peloponéská válka – konflikt mezi Athénami a Spartou",
+  "info": "Peloponéská válka probíhala mezi lety 431 př. n. l. až 404 př. n. l. mezi Athénami a jejich spojenci (Délský spolek) a Spartou s jejími spojenci (Peloponéský spolek) o nadvládu nad starověkým Řeckem. Za Athény se zůčastnil i Socrates. Athény měly silnou námořní sílu, Sparta byla dominující pozemní mocí. Válka byla přerušena příměřím, komplikovala se expedičním tažením Athén na Sicílii a skončila vítězstvím Sparty, kapitulací Athén, rozpadem Athénského námořního spolku a nastolením spartské hegemonie.",
+  "picture": "https://majklges.github.io/quiz-content/images/peloponeska_valka.jpg"
+  },
+  {
+  "id": 87,
+  "category": "historie",
+  "subcategory": "války",
+  "fact": "Třicetiletá válka (1618-1648)",
+  "info": "Třicetiletá válka byla rozsáhlý evropský konflikt, který zapojil mnoho evropských mocností a zasáhl převážně území dnešního Německa a střední Evropy. Konflikt vznikl hlavně z náboženského napětí mezi katolíky a protestanty po reformaci, ale postupně se stal i politickým bojem o moc a hegemonii v Evropě. Válku započalo stavovské povstání a třetí pražská defenestrace roku 1618. Během války se odehrála bitva Na Bílé hoře nebo Oblehání Brna Švédy. Během války vládl v českých zemích císař Svaté říše římské Ferdinand II, který byl však českými stavy sesazen a zvolen byl Fridrich Falcký,tzv. Zimní král. Mezi nejvýznamější velitele na straně císaře patřil Albrecht z Valdštejna. Válka skončila Vestfálským mírem, který výrazně změnil politickou a náboženskou mapu Evropy a položil základy moderní suverenity států. :contentReference[oaicite:0]{index=0}",
+  "picture": "https://majklges.github.io/quiz-content/images/tricetileta_valka.jpg"
+  },
+  {
+  "id": 88,
+  "category": "historie",
+  "subcategory": "války a povstání",
+  "fact": "České stavovské povstání (1618-1620)",
+  "info": "České stavovské povstání (1618–1620) bylo odbojem českých stavů proti absolutistickému a katolickému vládnutí Habsburků v zemích Koruny české. Povstání začalo 23. května 1618 třetí pražskou defenestrací, kdy stavovští pánové vyhodili císařské místodržící z oken Pražského hradu. Stavové požadovali dodržování náboženských svobod a větší vliv stavů na správu země. Roku 1619 zvolili Fridricha Falckého českým králem. Povstání bylo poraženo 8. listopadu 1620 v bitvě na Bílé hoře. Následoval útlum protestantství, upevnění moci Habsburků a tvrdé represe vůči stavům a protestantům. Řada vůdců byla roku 1621 popravena, později následovalo období rekatolizace a útlaku protestantů ve prospěch habsburské moci.",
+  "picture": "https://majklges.github.io/quiz-content/images/stavovske_povstani.jpg"
+  },
+  {
+  "id": 89,
+  "category": "historie",
+  "subcategory": "války",
+  "fact": "Stoletá válka (1337-1453)",
+  "info": "Stoletá válka byla série konfliktů mezi Anglií a Francií, která probíhala s přestávkami v letech 1337 až 1453 a trvala tak více než 100 let. Válka vznikla z dynastických sporů o nárok na francouzský trůn a z konfliktů o území a nadvládu v Evropě. Anglický král Eduard III. uplatnil nárok na francouzskou korunu od Filipa VI. a konflikt pokračoval přes několik generací, zahrnující významné bitvy jako Crécy, Poitiers či Agincourt a období francouzského odporu v čele s Johankou z Arku. Válka skončila vítězstvím Francie a vyhnáním Angličanů z většiny francouzského území kromě Calais, což posílilo francouzskou monarchii a ukončilo některé středověké feudální struktury ve prospěch centrálně řízených států.",
+  "picture": "https://majklges.github.io/quiz-content/images/stoleta_valka.jpg"
+  },
+  {
+  "id": 90,
+  "category": "historie",
+  "subcategory": "bitvy",
+  "fact": "Bitva u Kresčaku 1346",
+  "info": "Bitva u Kresčaku (francouzsky Crécy) proběhla 26. srpna 1346 během Stoleté války mezi Angličany a Francouzi. Anglické vojsko krále Eduarda III. dosáhlo drtivého vítězství nad mnohem početnější francouzskou armádou vedenou králem Filipem VI., přestože Francouzi měli silnou rytířskou jízdu. Angličané těžili ze své taktiky, zejména z použití dlouhých luků (longbow), které jim umožnily zasypat Francouze soupeře smrští šípů. V bitvě padl i český král Jan Lucemburský, který se coby spojenec Francouzů zúčastnil bojů a podle kronik padl statečně v čele jezdectva. Bitva výrazně oslabila francouzskou aristokracii a otevřela Angličanům cestu k dobytí Calais.",
+  "picture": "https://majklges.github.io/quiz-content/images/bitva_krescak.jpg"
+  },
+  {
+  "id": 91,
+  "category": "historie",
+  "subcategory": "osobnosti",
+  "fact": "Jana z Arku (1412-1431)",
+  "info": "Jana z Arku (Jeanne d’Arc) byla francouzská národní hrdinka, která žila v letech přibližně 1412–1431. Pocházela z vesnice Domrémy ve Francii a během Stoleté války mezi Francií a Anglií se nechala inspirovat náboženskými vizemi, podle kterých měla povést francouzské vojsko ke svobodě a korunovat Karla VII. za krále. V roce 1429 pomohla zbořit obležení Orléansu (Panna Orleanska) a jejím úspěchem bylo i dobytí dalších měst a následná korunovace Karla VII. v Remeši. V roce 1430 byla zrazena Burgunďany, prodána Angličanům a v Rouenu odsouzena k upálení jako kacířka. Roku 1431 byla upálena.V roce 1920 byla prohlášena za svatou.", 
+  "picture": "https://majklges.github.io/quiz-content/images/jana_ark.jpg"
+}
 
 
 

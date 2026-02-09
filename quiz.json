@@ -1469,6 +1469,231 @@
     "fact_id": 81,
     "question": "Jak skončila vláda císaře Nera?",
     "answer": "Sebevražda"
+  },
+  {
+    "fact_id": 82,
+    "question": "Odkud pocházel Seneca?",
+    "answer": "Řím"
+  },
+  {
+    "fact_id": 82,
+    "question": "Pro kterého římského císaře byl Seneca poradcem?",
+    "answer": "Nero"
+  },
+  {
+    "fact_id": 82,
+    "question": "Jaký filozofický směr je spojen se Senecou?",
+    "answer": "Stoicismus"
+  },
+  {
+    "fact_id": 82,
+    "question": "Jak skončil život Seneky?",
+    "answer": "Sebevražda"
+  },
+  {
+    "fact_id": 83,
+    "question": "Jak se nazývala elitní stráž římských císařů?",
+    "answer": "Pretoriánská garda"
+  },
+  {
+    "fact_id": 83,
+    "question": "Kdo byl zakladatelem stálé pretoriánské gardy?",
+    "answer": "Augustus"
+  },
+  {
+    "fact_id": 84,
+    "question": "Ve kterém století vládl Marcus Aurelius jako římský císař?",
+    "answer": "2"
+  },
+  {
+    "fact_id": 84,
+    "question": "Jaký válečný konflikt se odehrál během vlády Marca Aurelia?",
+    "answer": "markomanské války"
+  },
+  {
+    "fact_id": 84,
+    "question": "Jaký mor postihl Řím během vlády Marca Aurelia?",
+    "answer": "antonínský"
+  },
+  {
+    "fact_id": 84,
+    "question": "Jak se jmenuje filozofické dílo, které Marcus Aurelius napsal?",
+    "answer": "Meditace"
+  },
+  {
+    "fact_id": 84,
+    "question": "Jaký filozofický směr Marcus Aurelius zastával?",
+    "answer": "Stoicismus"
+  },
+  {
+    "fact_id": 85,
+    "question": "Ze které dynastie pocházela Kleopatra VII?",
+    "answer": "Ptolemáiovci"
+  },
+  {
+    "fact_id": 85,
+    "question": "Kolikátá v pořadí byla Kleopatra Filopátor?",
+    "answer": "7"
   }
+  {
+    "fact_id": 85,
+    "question": "Se kterým římským velitelem spáchala Kleopatra VII sebevraždu?",
+    "answer": "Marcus Antonius"
+  },
+  {
+    "fact_id": 86,
+    "question": "Které dvě hlavní městské státy vedly Peloponéskou válku?",
+    "answer": "Athény a Sparta"
+  },
+  {
+    "fact_id": 86,
+    "question": "Jak se jmenoval spolek vedený Athénami?",
+    "answer": "Délský spolek"
+  },
+  {
+    "fact_id": 86,
+    "question": "Jak se nazýval spolek vedený Spartou?",
+    "answer": "Peloponéský spolek"
+  },
+  {
+    "fact_id": 86,
+    "question": "Která strana nakonec zvítězila v Peloponéské válce?",
+    "answer": "Sparta"
+  },
+  {
+    "fact_id": 86,
+    "question": "Který řecký filosof se zůčastil na straně Athén válečných tažení?",
+    "answer": "Socrates"
+  },
+  {
+    "fact_id": 86,
+    "question": "Ve kterém století probíhala Peloponéská válka (př.n.l.)?",
+    "answer": "5"
+  },
+  {
+    "fact_id": 87,
+    "question": "Kdy probíhala Třicetiletá válka?",
+    "answer": "1618–1648"
+  },
+  {
+    "fact_id": 87,
+    "question": "Jaký mír ukončil Třicetiletou válku?",
+    "answer": "Vestfálský mír"
+  },
+  {
+    "fact_id": 87,
+    "question": "Čím začala Třicetiletá válka?",
+    "answer": "Třetí pražská defenestrace"
+  },
+  {
+    "fact_id": 87,
+    "question": "Který velitel bojoval na straně Svaté říše římské během Třicetileté války a byl později zavražděn na objednácku císaře?",
+    "answer": "Albrecht z Valdštejna"
+  },
+  {
+    "fact_id": 87,
+    "question": "Koho si zvolili české stavy místo Ferdinanda II. za českého vládce během stavovského povstání a třicetileté války?",
+    "answer": "Fridrich Falcký"
+  },
+  {
+    "fact_id": 88,
+    "question": "Kdy probíhalo České stavovské povstání?",
+    "answer": "1618–1620"
+  },
+  {
+    "fact_id": 88,
+    "question": "Jaká událost spustila České stavovské povstání?",
+    "answer": "Třetí pražská defenestrace"
+  },
+  {
+    "fact_id": 88,
+    "question": "Koho zvolili stavové českým králem v roce 1619?",
+    "answer": "Fridricha Falckého"
+  },
+  {
+    "fact_id": 88,
+    "question": "V jaké bitvě roku 1620 bylo povstání rozhodujícím způsobem poraženo?",
+    "answer": "Bitva na Bílé hoře"
+  },
+  {
+    "fact_id": 89,
+    "question": "Kdy probíhala Stoletá válka?",
+    "answer": "1337–1453"
+  },
+  {
+    "fact_id": 89,
+    "question": "Mezi kterými dvěma státy se Stoletá válka vedla?",
+    "answer": "Anglie a Francie"
+  },
+  {
+    "fact_id": 89,
+    "question": "Která postava pomohla Francii zvrátit situaci ve válce?",
+    "answer": "Johanka z Arku"
+  },
+  {
+    "fact_id": 89,
+    "question": "Která země nakonec zvítězila ve Stoleté válce?",
+    "answer": "Francie"
+  }
+  {
+    "fact_id": 89,
+    "question": "Která anglický král byl na počátku Stoleté války?",
+    "answer": "Eduard III"
+  },
+  {
+    "fact_id": 89,
+    "question": "Která francouzský král byl na počátku Stoleté války?",
+    "answer": "Filip VI"
+  }
+  {
+    "fact_id": 90,
+    "question": "Ve kterém roce proběhla bitva u Kresčaku?",
+    "answer": "1346"
+  },
+  {
+    "fact_id": 90,
+    "question": "Během které války se bitva u Kresčaku konala?",
+    "answer": "Stoletá válka"
+  },
+  {
+    "fact_id": 90,
+    "question": "Který anglický král vedl svou armádu v bitvě u Kresčaku?",
+    "answer": "Eduard III."
+  },
+  {
+    "fact_id": 90,
+    "question": "Kdo byl hlavním vůdcem francouzské armády v bitvě u Kresčaku?",
+    "answer": "Filip VI."
+  },
+  {
+    "fact_id": 90,
+    "question": "Který český král padl v bitvě u Kresčaku?",
+    "answer": "Jan Lucemburský"
+  },
+  {
+    "fact_id": 91,
+    "question": "V jakém století žila Jana z Arku?",
+    "answer": "15"
+  },
+  {
+    "fact_id": 91,
+    "question": "S jakým konfliktem je Jana z Arku spojena?",
+    "answer": "Stoletá válka"
+  },
+  {
+    "fact_id": 91,
+    "question": "Které město Jana z Arku pomohla osvobodit od obležení?",
+    "answer": "Orléans"
+  },
+  {
+    "fact_id": 91,
+    "question": "Koho pomohla Jana z Arku korunovat francouzským králem?",
+    "answer": "Karla VII."
+  },
+  {
+    "fact_id": 91,
+    "question": "Jak Jana z Arku skončila v roce 1431?",
+    "answer": "Upálena"
+  },
 
 ]
