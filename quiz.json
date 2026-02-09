@@ -1646,6 +1646,11 @@
     "answer": "Filip VI"
   }
   {
+    "fact_id": 89,
+    "question": "Která bitva byla rozhodující ve stoleté válce v roce 1455?",
+    "answer": "u Castillonu"
+  },
+  {
     "fact_id": 90,
     "question": "Ve kterém roce proběhla bitva u Kresčaku?",
     "answer": "1346"
@@ -1695,5 +1700,120 @@
     "question": "Jak Jana z Arku skončila v roce 1431?",
     "answer": "Upálena"
   },
+  {
+    "fact_id": 92,
+    "question": "Kdy probíhaly Války růží?",
+    "answer": "1455–1487"
+  },
+  {
+    "fact_id": 92,
+    "question": "Které dva rody soupeřily během Války růží?",
+    "answer": "Lancaster a York"
+  },
+  {
+    "fact_id": 92,
+    "question": "Kdo byl anglickým králem s nestabilní vládou, jehož slabost přispěla k válkám růží?",
+    "answer": "Jindřich VI"
+  },
+  {
+    "fact_id": 92,
+    "question": "Který vůdce porazil Richarda III. v bitvě u Bosworthu a ukončil války růží?",
+    "answer": "Jindřich Tudor"
+  },
+  {
+    "fact_id": 92,
+    "question": "Jaká dynastie vznikla po skončení Války růží?",
+    "answer": "Tudorovci"
+  },
+  {
+    "fact_id": 92,
+    "question": "Koho porazil Jindřich Tudor v bitvě u Bosworthu a ukončil války růží?",
+    "answer": "Richard III"
+  },
+  {
+    "fact_id": 93,
+    "question": "V jakém roce proběhla Šestidenní válka?",
+    "answer": "1967"
+  },
+  {
+    "fact_id": 93,
+    "question": "Mezi kým se Šestidenní válka vedla?",
+    "answer": "Izrael, Egypt, Sýrie, Jordánsko"
+  },
+  {
+    "fact_id": 93,
+    "question": "Do jakého širšího konfliktu je zahrnuta Šestidenní válka?",
+    "answer": "Izraelsko‑arabský konflikt"
+  },
+  {
+    "fact_id": 94,
+    "question": "Kdy probíhala válka ve Vietnamu?",
+    "answer": "1955–1975"
+  },
+  {
+    "fact_id": 94,
+    "question": "Mezi kým se válka ve Vietnamu vedla?",
+    "answer": "Severním Vietnamem a Jižním Vietnamem"
+  },
+  {
+    "fact_id": 94,
+    "question": "V jakém širším konfliktu je válka ve Vietnamu považována za součást?",
+    "answer": "Studené války"
+  },
+  {
+    "fact_id": 94,
+    "question": "Jak skončila válka ve Vietnamu?",
+    "answer": "Pádem Saigonu"
+  },
+  {
+    "fact_id": 94,
+    "question": "Jaký herbicid použila USA ve válce ve Vietnamu?",
+    "answer": "Agent Orange"
+  },
+  {
+    "fact_id": 94,
+    "question": "Který prezident začal tzv. vietnamizaci, tedy odsun amerických vojk z Vietnamu?",
+    "answer": "Nixon"
+  },
+  {
+    "fact_id": 95,
+    "question": "Kdy začala invaze vojsk Varšavské smlouvy do Československa?",
+    "answer": "21. srpna 1968"
+  },
+  {
+    "fact_id": 95,
+    "question": "Které země se na invazi zúčastnily?",
+    "answer": "Sovětský svaz, Polsko, Maďarsko, Bulharsko"
+  },
+  {
+    "fact_id": 95,
+    "question": "Jaký reformní proces invaze potlačila?",
+    "answer": "Pražské jaro"
+  },
+  {
+    "fact_id": 95,
+    "question": "Jak se nazývá smlouva, kterou okupanti podepsali po intervenci?",
+    "answer": "Moskevský protokol"
+  },
+  {
+    "fact_id": 95,
+    "question": "Jak se označuje období po invazi, během kterého byly potlačeny reformy?",
+    "answer": "Normalizace"
+  },
+  {
+    "fact_id": 95,
+    "question": "Do kterého roku zůstala sovětská vojska na území Československa?",
+    "answer": "1991"
+  },
+  {
+    "fact_id": 95,
+    "question": "Kdo byl první tajemník v ČSR a zastáncem Pražského jara během okupace v roce 1968?",
+    "answer": "Alexander Dubček"
+  },
+  {
+    "fact_id": 95,
+    "question": "Kdo byl prezidentem v ČSR během okupace v roce 1968?",
+    "answer": "Ludvík Svoboda"
+  }
 
 ]

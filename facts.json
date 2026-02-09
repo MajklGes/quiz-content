@@ -706,7 +706,7 @@
   "category": "historie",
   "subcategory": "války",
   "fact": "Stoletá válka (1337-1453)",
-  "info": "Stoletá válka byla série konfliktů mezi Anglií a Francií, která probíhala s přestávkami v letech 1337 až 1453 a trvala tak více než 100 let. Válka vznikla z dynastických sporů o nárok na francouzský trůn a z konfliktů o území a nadvládu v Evropě. Anglický král Eduard III. uplatnil nárok na francouzskou korunu od Filipa VI. a konflikt pokračoval přes několik generací, zahrnující významné bitvy jako Crécy, Poitiers či Agincourt a období francouzského odporu v čele s Johankou z Arku. Válka skončila vítězstvím Francie a vyhnáním Angličanů z většiny francouzského území kromě Calais, což posílilo francouzskou monarchii a ukončilo některé středověké feudální struktury ve prospěch centrálně řízených států.",
+  "info": "Stoletá válka byla série konfliktů mezi Anglií a Francií, která probíhala s přestávkami v letech 1337 až 1453 a trvala tak více než 100 let. Válka vznikla z dynastických sporů o nárok na francouzský trůn a z konfliktů o území a nadvládu v Evropě. Anglický král Eduard III. uplatnil nárok na francouzskou korunu od Filipa VI. a konflikt pokračoval přes několik generací, zahrnující významné bitvy jako Crécy, Poitiers či Agincourt a období francouzského odporu v čele s Johankou z Arku. Válka skončila vítězstvím Francie a vyhnáním Angličanů z většiny francouzského území kromě Calais, což posílilo francouzskou monarchii a ukončilo některé středověké feudální struktury ve prospěch centrálně řízených států. Rozhodující byla bitva u Castillonu.",
   "picture": "https://majklges.github.io/quiz-content/images/stoleta_valka.jpg"
   },
   {
@@ -724,7 +724,43 @@
   "fact": "Jana z Arku (1412-1431)",
   "info": "Jana z Arku (Jeanne d’Arc) byla francouzská národní hrdinka, která žila v letech přibližně 1412–1431. Pocházela z vesnice Domrémy ve Francii a během Stoleté války mezi Francií a Anglií se nechala inspirovat náboženskými vizemi, podle kterých měla povést francouzské vojsko ke svobodě a korunovat Karla VII. za krále. V roce 1429 pomohla zbořit obležení Orléansu (Panna Orleanska) a jejím úspěchem bylo i dobytí dalších měst a následná korunovace Karla VII. v Remeši. V roce 1430 byla zrazena Burgunďany, prodána Angličanům a v Rouenu odsouzena k upálení jako kacířka. Roku 1431 byla upálena.V roce 1920 byla prohlášena za svatou.", 
   "picture": "https://majklges.github.io/quiz-content/images/jana_ark.jpg"
+  },
+  {
+  "id": 92,
+  "category": "historie",
+  "subcategory": "války",
+  "fact": "Války růží (1455-1487)",
+  "info": "Války růží byly série občanských válek v Anglii soupeřícími větvemi královského rodu Plantagenet – **Lancaster** (červená růže) a **York** (bílá růže) – o anglický trůn. Konflikt vypukl kvůli sporům o nárok na korunu a politické nestabilitě během vlády slabého krále Jindřicha VI. Postupně se střídaly vítězství obou stran a změny vládců včetně Eduarda IV., Richarda III. a dalších. Války skončily vítězstvím Lancastriana **Jindřicha Tudora**, který porazil Richarda III. v bitvě u Bosworthu roku 1485 a stal se Jindřichem VII., čímž vznikla **tudorovská dynastie**. Název konfliktu pochází z erbů soupeřících rodů, kde Lancaster používal červenou růži a York bílou růži.",
+  "picture": "https://majklges.github.io/quiz-content/images/valka_ruzi.jpg"
+  },
+  {
+  "id": 93,
+  "category": "historie",
+  "subcategory": "války",
+  "fact": "Šestidenní válka – arabsko‑izraelský konflikt v roce 1967",
+  "info": "Šestidenní válka (též 1967 Arab‑Izraelská válka) probíhala mezi 5. a 10. červnem 1967 a byla jedním z hlavních konfliktů izraelsko‑arabského sporu. Bojovalo se mezi Izraelem na jedné straně a koalicí arabských států, především Egyptem, Sýrií a Jordánskem, na straně druhé. Izrael zahájil boj preventivními údery proti letectvu nepřátel a rychle dosáhl rozhodujícího vítězství. Během šesti dnů izraelské síly obsadily Sinai, Pásmo Gazy, Západní břeh Jordánu (včetně východního Jeruzaléma) a Golanské výšiny, což mělo zásadní dopad na pozdější geopolitický vývoj regionu.",
+  "picture": "https://majklges.github.io/quiz-content/images/sestidenni_valka.jpg"
+  },
+  {
+  "id": 94,
+  "category": "historie",
+  "subcategory": "války",
+  "fact": "Válka ve Vietnamu – konflikt během Studené války (1955-1975)",
+  "info": "Válka ve Vietnamu byl ozbrojený konflikt probíhající na území Vietnamu a v přilehlých oblastech v letech 1955–1975 mezi komunistickým Severním Vietnamem a jeho spojenci a nekomunistickým Jižním Vietnamem podporovaným Spojenými státy a dalšími spojenci. Konflikt je součástí širší Studené války a vznikl z ideologického i politického soupeření mezi komunistickým a západním blokem. Během bojů byly používány různé taktiky včetně guerillového boje, velkých pozemních operací i bombardování. Válka skončila v roce 1975 pádem Saigonu a následným sjednocením Vietnamu pod komunistickou vládou. Celkový počet obětí je odhadován na miliony civilistů i vojáků na obou stranách, což z této války dělá jeden z největších konfliktů druhé poloviny 20. století. Na začátku války prezidentem USA Kennedy, poté Johnson, na konci války Nixon(odsun vojsk,tzv. vietnamizace). Největší chemická válka v dějinách, použití herbicidu Agent Orange a Napalmu",
+  "picture": "https://majklges.github.io/quiz-content/images/vietnam_valka.jpg"
+  },
+  {
+  "id": "",
+  "category": "historie",
+  "subcategory": "války a okupace",
+  "fact": "Invaze vojsk Varšavské smlouvy do Československa – srpen 1968",
+  "info": "Invaze vojsk Varšavské smlouvy do Československa byla vojenská operace zahájená v noci z 20. na 21. srpna 1968, kdy armády Sovětského svazu, Polska, Maďarska a Bulharska s podporou Německé demokratické republiky vtrhly na území Československa, aby potlačily reformní proces známý jako Pražské jaro. Cílem bylo zastavit politické a společenské změny a upevnit kontrolu komunistických režimů ve východním bloku. Invaze vedla k potlačení reforem, podpisu tzv. Moskevského protokolu a dlouhodobé okupaci, kdy sovětská vojska na československém území zůstala až do roku 1991. Během okupace došlo k odporu obyvatelstva a k civilním obětem, a proces nazývaný normalizace zpřísnil komunistickou vládu v Československu.",
+  "picture": "https://majklges.github.io/quiz-content/images/okupace_1968.jpg"
 }
+
+
+
+
 
 
 
