@@ -564,5 +564,92 @@
     "fact": "Atentát na Alžbětu Bavorskou",
     "info": "Dne 10. září 1898 byla Alžběta Bavorská zavražděna v Ženevě italským anarchistou Luigim Luchenim, který ji bodl do srdce pilníkem. Na následky zranění císařovna zemřela.",
     "picture": "https://majklges.github.io/quiz-content/images/sisi_assasin.jpg"
-  }
+  },
+  {
+    "id": 72,
+    "category": "jazyk",
+    "subcategory": "vyznamy_slov",
+    "fact": "Nomen Omen",
+    "info": "„Nomen omen“ je latinská fráze, která doslova znamená „jméno je znamení“ nebo „jméno je předzvěst“. Připisuje se původu v dílech římského komediografa Plauta a vyjadřuje myšlenku, že jméno člověka, věci nebo místa může naznačovat jeho charakter, osud nebo vlastnosti. Locuce se používá obvykle ve smyslu, že jméno někoho či něčeho výstižně odráží jeho povahu nebo úlohu.", 
+    "picture": "https://majklges.github.io/quiz-content/images/nomen_omen.jpg"
+  },
+  {
+  "id": 73,
+  "category": "jazyk",
+  "subcategory": "vyznamy_slov",
+  "fact": "Carpe Diem",
+  "info": "„Carpe diem“ je latinská fráze, kterou lze přeložit jako „užij dne“ nebo „využij dne“. Významově nabádá k tomu, aby člověk co nejlépe využil současný okamžik a nepromeškal příležitosti. Výraz pochází z díla římského básníka Horatia (Ody).",
+  "picture": "https://majklges.github.io/quiz-content/images/carpe_diem.jpg"
+  },
+  {
+  "id": 74,
+  "category": "jazyk",
+  "subcategory": "vyznamy_slov",
+  "fact": "Cogito Ergo Sum",
+  "info": "„Cogito ergo sum“ je latinská filozofická formule, kterou poprvé použil René Descartes a která se běžně překládá jako „Myslím, tedy jsem“. Tato věta vyjadřuje myšlenku, že akt myšlení dokládá existenci myslící bytosti a má sloužit jako jistý základ pro poznání vlastní existence. Fráze se stala jedním ze základních principů moderní filozofie racionalismu.", 
+  "picture": "https://majklges.github.io/quiz-content/images/cogito_ergo_sum.jpg"
+  },
+  {
+  "id": 75,
+  "category": "filozofie",
+  "subcategory": "osobnosti",
+  "fact": "Aristotelés (384-322 př.n.l.)",
+  "info": "Aristotelés byl starořecký filosof, vědec a učitel, jeden z nejvýznamnějších myslitelů klasické antiky. Narodil se kolem roku 384 př. n. l. ve Stageiře v Řecku, byl žákem Platóna a později vychovatelem Alexandra Velikého. Založil vlastní školu (Lykeion) a položil základy mnoha vědním oborům, jako jsou logika, etika, metafyzika, přírodní vědy a politika. Jeho díla i myšlenky ovlivnily vývoj filozofie a vědy na více než dva tisíce let.", 
+  "picture": "https://majklges.github.io/quiz-content/images/aristoteles.jpg"
+  },
+  {
+  "id": 76,
+  "category": "filozofie",
+  "subcategory": "osobnosti",
+  "fact": "Platón (428-347 př.n.l.)",
+  "info": "Platón byl starořecký filozof, žák Sokrata a učitel Aristotela. Je považován za jednoho z nejvlivnějších myslitelů západní filozofie. Založil filosofickou školu Akademii v Athénách. Mezi jeho významná díla patří „Ústava“, „Symposium“ a „Faidón“, kde rozvíjí teorie o idejích, poznání a spravedlnosti.",
+  "picture": "https://majklges.github.io/quiz-content/images/platon.jpg"
+  },
+  {
+  "id": 77,
+  "category": "filozofie",
+  "subcategory": "osobnosti",
+  "fact": "Sókratés (469–399 př. n. l.)",
+  "info": "Sókratés byl athénský starořecký filosof, je považován za jednu z nejvýznamnějších postav západní filozofie. Nesoustředil se na přírodní vědy, ale na etiku a lidské jednání, kladl důraz na sebepoznání a učil prostřednictvím dialogu a otázek, tzv. sokratovské metody. Nenapsal sice žádná díla, ale jeho myšlenky známe především z popisů jeho žáků, zejména Platóna a Xenofóna. Sókrata odsoudili k smrti v Athénách obviněním z neúcty k bohům a zkazitelnosti mládeže, a proto vypil bolehlav.", 
+  "picture": "https://majklges.github.io/quiz-content/images/socrates.jpg"
+  },
+  {
+  "id": 78,
+  "category": "historie",
+  "subcategory": "osobnosti",
+  "fact": "Marcus Antonius (83 - 30 př.n.l.)",
+  "info": "Marcus Antonius, známý také jako Mark Antony, byl římský politik a vojevůdce. Byl blízkým spojencem Julia Caesara a klíčovým členem Druhého triumvirátu spolu s Octavianem a Lepidem. Je známý také pro svou politickou a milostnou alianci s egyptskou královnou Kleopatrou VII. Po porážce v občanské válce s Octavianem v bitvě u Actia spáchal sebevraždu probodnutím mečem v Alexandrii.", 
+  "picture": "https://majklges.github.io/quiz-content/images/marcus_antonius.jpg"
+  },
+  {
+  "id": 79,
+  "category": "historie",
+  "subcategory": "osobnosti",
+  "fact": "Augustus – první římský císař (63 př.n.l.-14 n.l.)",
+  "info": "Augustus, původním jménem Gaius Octavius (později Gaius Julius Caesar Octavianus). Byl prvním římským císařem od roku 27 př. n. l. do své smrti a zakladatelem císařství, které nahradilo římskou republiku. Jako svěřenec a adoptivní syn Julia Caesara sehrál klíčovou roli v občanských válkách po Caesarově smrti a nakonec se stal jediným vládcem říše. Jeho vláda přinesla dlouhé období relativního míru a prosperity známé jako Pax Romana.", 
+  "picture": "https://majklges.github.io/quiz-content/images/augustus.jpg"
+  },
+  {
+  "id": 80,
+  "category": "historie",
+  "subcategory": "osobnosti",
+  "fact": "Caligula – římský císař (12-41)",
+  "info": "Gaius Julius Caesar Augustus Germanicus, známý jako Caligula, byl římský císař, který vládl od roku 37 do 41 n. l. Narodil se 31. srpna 12 n. l. jako syn Germani‑ka a Agrippiny mladší, vnuk Marka Antonia. Caligula je historicky známý svou výstřední a krutou vládou; moderní historici popisují období jeho vlády jako plné extravagancí, tyranie a excesů. Sám sebe prohlásil za boha a svého koně Incitata jmenoval senátorem. Byl zavražděn členy své vlastní pretoriánské gardy v roce 41 n. l.", 
+  "picture": "https://majklges.github.io/quiz-content/images/caligula.jpg"
+  },
+  {
+  "id": 81,
+  "category": "historie",
+  "subcategory": "osobnosti",
+  "fact": "Nero – římský císař )37-68)",
+  "info": "Nero Claudius Caesar Augustus Germanicus byl římský císař. Byl posledním císařem z dynastie Claudia–Julia. Nero je známý svým okázalým životním stylem, pronásledováním křesťanů a pověstí o vypálení Říma během jeho vlády. Je znám vraždou vlastní matky Agrippiny, manželky Octavie, adoptivního bratra Britannika a vychovatele Senecy (donutil ho si podříznout žíly). Jeho vláda skončila povstáním a jeho následnou sebevraždou (při níž pronesl Jaký to umělec ve mně hyne).", 
+  "picture": "https://majklges.github.io/quiz-content/images/nero.jpg"
+  } 
+
+
+
+
+
+
+
 ]

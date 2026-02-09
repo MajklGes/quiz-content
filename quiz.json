@@ -1289,6 +1289,186 @@
     "fact_id": 71,
     "question": "Jak se jmenoval atentátník, který zavraždil Alžbětu Bavorskou?",
     "answer": "Luigi Lucheni"
+  },
+  {
+    "fact_id": 72,
+    "question": "Co znamená latinská fráze „nomen omen“?",
+    "answer": "Jméno je znamení"
+  },
+  {
+    "fact_id": 72,
+    "question": "Jak se latinsky řekne, když jméno odpovídá charakteru, např. kuchař Vařečka?",
+    "answer": "Nomen Omen"
+  },
+  {
+    "fact_id": 73,
+    "question": "Co znamená latinská fráze „Carpe diem“?",
+    "answer": "Užij dne"
+  },
+  {
+    "fact_id": 73,
+    "question": "Jaké latinské slovní spojení se užívá ve smyslu Užij dne?",
+    "answer": "Carpe Diem"
+  },
+  {
+    "fact_id": 74,
+    "question": "Co znamená latinská fráze „Cogito ergo sum“?",
+    "answer": "Myslím, tedy jsem"
+  },
+  {
+    "fact_id": 74,
+    "question": "Kdo je autorem výroku „Cogito ergo sum“?",
+    "answer": "René Descartes"
+  },
+  {
+    "fact_id": 74,
+    "question": "Jak zní latinsky výrok Myslím, tedy jsem?",
+    "answer": "Cogito ergo sum"
+  },
+  {
+    "fact_id": 74,
+    "question": "V jakém století Descartes tuto filozofickou formuli formuloval?",
+    "answer": "17"
+  },
+  {
+    "fact_id": 75,
+    "question": "V jakém historickém období žil Aristotelés?",
+    "answer": "Antika"
+  },
+  {
+    "fact_id": 75,
+    "question": "Kde se Aristotelés narodil?",
+    "answer": "Stageira"
+  },
+  {
+    "fact_id": 75,
+    "question": "Ve kterém století př.n.l. žil Aristotelés?",
+    "answer": "4"
+  },
+  {
+    "fact_id": 75,
+    "question": "Kdo byl učitelem Aristotela?",
+    "answer": "Platón"
+  },
+  {
+    "fact_id": 75,
+    "question": "Kterého významného učedníka Aristotelés vychovával?",
+    "answer": "Alexandra Velikého"
+  },
+  {
+    "fact_id": 76,
+    "question": "Kdo byl učitelem Platóna?",
+    "answer": "Sokratés"
+  },
+  {
+    "fact_id": 76,
+    "question": "Kterého filozofa Platón vyučoval?",
+    "answer": "Aristotelés"
+  },
+  {
+    "fact_id": 76,
+    "question": "Jak se jmenovala škola, kterou Platón založil?",
+    "answer": "Akademie v Aténách"
+  },
+  {
+    "fact_id": 76,
+    "question": "Uveď jedno z významných děl Platóna.",
+    "answer": "Ústava"
+  },
+  {
+    "fact_id": 77,
+    "question": "Kde žil Sókratés?",
+    "answer": "Athény"
+  },
+  {
+    "fact_id": 77,
+    "question": "Kdo byl žákem Socrata?",
+    "answer": "Platón"
+  },
+  {
+    "fact_id": 77,
+    "question": "Vypitím jaké rostliny si vzal Socrates život?",
+    "answer": "Bolehlav"
+  },
+  {
+    "fact_id": 78,
+    "question": "Kdo byl největší přítel Marca Antoniuse?",
+    "answer": "Julius Caesar"
+  },
+  {
+    "fact_id": 78,
+    "question": "V jakém století př.n.l. žil Marcus Antonius?",
+    "answer": "1"
+  },
+  {
+    "fact_id": 78,
+    "question": "S kým tvořil Marcus Antonius Druhý triumvirát?",
+    "answer": "Octavius a Lepidus"
+  },
+  {
+    "fact_id": 78,
+    "question": "S jakou egyptskou královnou měl Marcus Antonius známý vztah?",
+    "answer": "Kleopatra VII"
+  },
+  {
+    "fact_id": 78,
+    "question": "V jakém městě Marcus Antonius spáchal sebevraždu?",
+    "answer": "Alexandrie"
+  },
+  {
+    "fact_id": 79,
+    "question": "Jaké bylo původní jméno císaře Augusta?",
+    "answer": "Octavius"
+  },
+  {
+    "fact_id": 79,
+    "question": "Jak se jmenoval adoptivní otec císaře Augusta?",
+    "answer": "Julius Caesar"
+  },
+  {
+    "fact_id": 79,
+    "question": "Jak se nazývá období míru a prosperity, které přinesla vláda císaře Augusta?",
+    "answer": "Pax Romana"
+  },
+  {
+    "fact_id": 80,
+    "question": "Který římský císař se prohlásil za boha?",
+    "answer": "Caligula"
+  },
+  {
+    "fact_id": 80,
+    "question": "Jak se jmenoval Caligulův kůň, kterého jmenoval senátorem?",
+    "answer": "Incitatus"
+  },
+  {
+    "fact_id": 80,
+    "question": "Kdo byl otec císaře Caliguly?",
+    "answer": "Germanicus"
+  },
+  {
+    "fact_id": 80,
+    "question": "Jak skončila vláda Caliguly?",
+    "answer": "Byl zavražděn"
+  },
+  {
+    "fact_id": 81,
+    "question": "Kdo byla matka císaře Nera, kterou nechal zavraždit?",
+    "answer": "Agrippina"
+  },
+  {
+    "fact_id": 81,
+    "question": "Který učenec spáchal sebevraždu, k níž byl donucem císařem Nerem?",
+    "answer": "Seneca"
+  },
+  {
+    "fact_id": 81,
+    "question": "Který římský císař pronesl při své smrti Jaký to umělec ve mně hyne?",
+    "answer": "Nero"
+  }
+  {
+    "fact_id": 81,
+    "question": "Jak skončila vláda císaře Nera?",
+    "answer": "Sebevražda"
   }
 
 ]
